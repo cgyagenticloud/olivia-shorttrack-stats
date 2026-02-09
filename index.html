@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>⛸️ Junior Short Track Speedskating Stats</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #fce4ec 0%, #f8bbd0 30%, #fff 60%, #fce4ec 100%);
+    min-height: 100vh;
+    color: #4a3347;
+  }
+
+  .header {
+    text-align: center;
+    padding: 2rem 1rem 1rem;
+    background: linear-gradient(135deg, #f48fb1 0%, #f8bbd0 50%, #fce4ec 100%);
+    border-bottom: 3px solid rgba(255,255,255,0.5);
+    box-shadow: 0 4px 20px rgba(244,143,177,0.3);
+  }
+
+  .header h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    margin-bottom: 0.25rem;
+  }
+
+  .header p {
+    color: rgba(255,255,255,0.85);
+    font-size: 0.9rem;
+    font-weight: 300;
+  }
+
+  .tabs {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .tab-btn {
+    padding: 0.6rem 1.8rem;
+    border: 2px solid #f48fb1;
+    background: white;
+    color: #e91e63;
+    border-radius: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+
+  .tab-btn:hover {
+    background: #fce4ec;
+    transform: translateY(-1px);
+  }
+
+  .tab-btn.active {
+    background: linear-gradient(135deg, #f48fb1, #e91e63);
+    color: white;
+    border-color: transparent;
+    box-shadow: 0 4px 15px rgba(233,30,99,0.3);
+  }
+
+  .filters {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 0 1rem 1rem;
+    flex-wrap: wrap;
+  }
+
+  .filter-btn {
+    padding: 0.4rem 1rem;
+    border: 1.5px solid #f8bbd0;
+    background: white;
+    color: #ad1457;
+    border-radius: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+
+  .filter-btn:hover { background: #fce4ec; }
+
+  .filter-btn.active {
+    background: #f8bbd0;
+    color: #880e4f;
+    border-color: #f48fb1;
+  }
+
+  .search-bar {
+    display: flex;
+    justify-content: center;
+    padding: 0 1rem 1rem;
+  }
+
+  .search-bar input {
+    width: 100%;
+    max-width: 400px;
+    padding: 0.6rem 1.2rem;
+    border: 2px solid #f8bbd0;
+    border-radius: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.85rem;
+    outline: none;
+    color: #4a3347;
+    background: white;
+    transition: border-color 0.3s;
+  }
+
+  .search-bar input:focus {
+    border-color: #f48fb1;
+    box-shadow: 0 0 10px rgba(244,143,177,0.2);
+  }
+
+  .search-bar input::placeholder { color: #d4a0b9; }
+
+  .stats-summary {
+    text-align: center;
+    padding: 0 1rem 0.5rem;
+    font-size: 0.8rem;
+    color: #ad1457;
+    font-weight: 400;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem 2rem;
+  }
+
+  .skater-card {
+    background: white;
+    border-radius: 16px;
+    padding: 1.2rem;
+    margin-bottom: 0.8rem;
+    box-shadow: 0 2px 12px rgba(244,143,177,0.15);
+    border: 1px solid rgba(248,187,208,0.3);
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+
+  .skater-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(244,143,177,0.25);
+  }
+
+  .skater-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 0.8rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .skater-rank {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #f48fb1, #e91e63);
+    color: white;
+    font-size: 0.8rem;
+    font-weight: 700;
+    flex-shrink: 0;
+    margin-right: 0.8rem;
+  }
+
+  .skater-rank.gold { background: linear-gradient(135deg, #ffd54f, #ff8f00); }
+  .skater-rank.silver { background: linear-gradient(135deg, #e0e0e0, #9e9e9e); }
+  .skater-rank.bronze { background: linear-gradient(135deg, #ffab91, #e64a19); }
+
+  .skater-info { flex: 1; }
+
+  .skater-name {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #880e4f;
+  }
+
+  .skater-details {
+    font-size: 0.78rem;
+    color: #ad1457;
+    margin-top: 0.15rem;
+  }
+
+  .skater-details span {
+    display: inline-block;
+    margin-right: 0.8rem;
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 0.2rem 0.6rem;
+    border-radius: 50px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    color: white;
+  }
+
+  .badge-jr-a { background: #e91e63; }
+  .badge-jr-b { background: #f06292; }
+  .badge-jr-c { background: #f48fb1; }
+  .badge-jr-d { background: #f8bbd0; color: #880e4f; }
+  .badge-jr-e { background: #fce4ec; color: #ad1457; }
+  .badge-senior { background: #9e9e9e; }
+
+  .times-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 0.5rem;
+  }
+
+  .time-item {
+    background: linear-gradient(135deg, #fce4ec, #fff);
+    border-radius: 10px;
+    padding: 0.5rem 0.7rem;
+    text-align: center;
+    border: 1px solid rgba(248,187,208,0.4);
+  }
+
+  .time-distance {
+    font-size: 0.7rem;
+    font-weight: 600;
+    color: #ad1457;
+    text-transform: uppercase;
+  }
+
+  .time-value {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #880e4f;
+    margin-top: 0.1rem;
+  }
+
+  .no-results {
+    text-align: center;
+    padding: 3rem 1rem;
+    color: #f48fb1;
+    font-size: 1.1rem;
+  }
+
+  .footer {
+    text-align: center;
+    padding: 1.5rem;
+    color: #d4a0b9;
+    font-size: 0.75rem;
+  }
+
+  .footer a { color: #f48fb1; text-decoration: none; }
+  .footer a:hover { text-decoration: underline; }
+
+  @media (max-width: 600px) {
+    .header h1 { font-size: 1.4rem; }
+    .skater-name { font-size: 0.95rem; }
+    .times-grid { grid-template-columns: repeat(auto-fill, minmax(90px, 1fr)); }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>⛸️ Junior Short Track Stats</h1>
+  <p>US Junior Speedskating Personal Bests — Sorted by 500m</p>
+</div>
+
+<div class="tabs">
+  <button class="tab-btn active" onclick="switchTab('girls')">👧 Girls</button>
+  <button class="tab-btn" onclick="switchTab('boys')">👦 Boys</button>
+  <button class="tab-btn" onclick="switchTab('all')">✨ All</button>
+</div>
+
+<div class="filters" id="divisionFilters">
+  <button class="filter-btn active" onclick="filterDivision('all')">All Divisions</button>
+  <button class="filter-btn" onclick="filterDivision('Junior A')">Junior A</button>
+  <button class="filter-btn" onclick="filterDivision('Junior B')">Junior B</button>
+  <button class="filter-btn" onclick="filterDivision('Junior C')">Junior C</button>
+  <button class="filter-btn" onclick="filterDivision('Junior D')">Junior D</button>
+  <button class="filter-btn" onclick="filterDivision('Junior E')">Junior E</button>
+</div>
+
+<div class="search-bar">
+  <input type="text" id="searchInput" placeholder="🔍 Search by name, team, or division..." oninput="renderCards()">
+</div>
+
+<div class="stats-summary" id="statsSummary"></div>
+
+<div class="container" id="cardContainer"></div>
+
+<div class="footer">
+  Data from <a href="https://www.shorttracklive.info/" target="_blank">shorttracklive.info</a> · 
+  Last updated: <span id="lastUpdated"></span> · 
+  Made with 💖 by OliviaAgent
+</div>
+
+<script>
+const SKATERS = [{"name": "KAZANECKA Olimpia", "country": "USA", "gender": "F", "age": 16, "age_category": "Junior B", "club": "PTSC", "pbs": {"500m": "44.332", "777m": "16.200", "1000m": "1:30.209", "1500m": "2:20.888"}, "skater_id": "6821"}, {"name": "CHEN Isabella", "country": "USA", "gender": "F", "age": 16, "age_category": "Junior B", "club": "PTSC", "pbs": {"500m": "44.715", "777m": "1:14.010", "1000m": "1:32.955", "1500m": "2:30.069"}, "skater_id": "6787"}, {"name": "MENSAH Sasha", "country": "USA", "gender": "F", "age": 16, "age_category": "Junior B", "club": "DSSC", "pbs": {"500m": "46.348", "777m": "1:17.709", "1000m": "1:34.375", "1500m": "2:30.716"}, "skater_id": "7351"}, {"name": "KOONS Sofia", "country": "USA", "gender": "F", "age": 17, "age_category": "Junior B", "club": "PSSP", "pbs": {"333m": "36.920", "500m": "45.311", "777m": "1:16.431", "1000m": "1:33.246", "1500m": "2:27.113"}, "skater_id": "6825"}, {"name": "ZHANG Tiffany", "country": "USA", "gender": "F", "age": 14, "age_category": "Junior C", "club": "PTSC", "pbs": {"222m": "27.955", "333m": "35.890", "500m": "45.021", "777m": "1:17.329", "1000m": "1:33.332", "1500m": "2:37.445"}, "skater_id": "8156"}, {"name": "TEGTMEIER Carolyn", "country": "USA", "gender": "F", "age": 15, "age_category": "Junior B", "club": "NBSSC", "pbs": {"333m": "38.540", "500m": "47.242", "777m": "1:15.450", "1000m": "1:36.759", "1500m": "2:31.713", "3000m": "6:23.850"}, "skater_id": "7421"}, {"name": "POMETUN Tatyana", "country": "USA", "gender": "F", "age": 15, "age_category": "Junior C", "club": "EPSSC", "pbs": {"333m": "37.680", "500m": "47.766", "777m": "1:21.150", "1000m": "1:39.896", "1500m": "2:36.332"}, "skater_id": "8131"}, {"name": "SULLIVAN Benjamin", "country": "USA", "gender": "M", "age": 17, "age_category": "Junior B", "club": "PTSC", "pbs": {"500m": "41.074", "777m": "1:10.392", "1000m": "1:25.253", "1500m": "2:18.545"}, "skater_id": "6881"}, {"name": "JIN Daniel", "country": "USA", "gender": "M", "age": 16, "age_category": "Junior B", "club": "DIRECT", "pbs": {"500m": "41.787", "1000m": "1:23.770", "1500m": "2:19.292"}, "skater_id": "10104"}, {"name": "LIU Aidan", "country": "USA", "gender": "M", "age": 17, "age_category": "Junior B", "club": "PNIC", "pbs": {"500m": "41.471", "777m": "1:10.093", "1000m": "1:25.381", "1500m": "2:13.507"}, "skater_id": "6848"}, {"name": "WU Lucas", "country": "USA", "gender": "M", "age": 15, "age_category": "Junior C", "club": "PTSC", "pbs": {"500m": "42.108", "777m": "1:11.578", "1000m": "1:27.922", "1500m": "2:14.095"}, "skater_id": "6900"}, {"name": "DERHEIMER Quinn Jonathan", "country": "USA", "gender": "M", "age": 17, "age_category": "Junior B", "club": "PNIC", "pbs": {"500m": "41.776", "777m": "1:12.150", "1000m": "1:26.930", "1500m": "2:17.562"}, "skater_id": "6801"}, {"name": "CHAN Vincent", "country": "USA", "gender": "M", "age": 16, "age_category": "Junior B", "club": "PNIC", "pbs": {"333m": "37.320", "500m": "42.773", "777m": "1:11.874", "1000m": "1:28.147", "1500m": "2:16.487"}, "skater_id": "7419"}, {"name": "CHEN Winston", "country": "USA", "gender": "M", "age": 16, "age_category": "Junior B", "club": "PSSP", "pbs": {"333m": "38.610", "500m": "43.355", "777m": "1:15.439", "1000m": "1:30.612", "1500m": "2:27.465"}, "skater_id": "7008"}, {"name": "MONTES Martzel", "country": "USA", "gender": "M", "age": 14, "age_category": "Junior C", "club": "PSSP", "pbs": {"222m": "26.800", "333m": "36.850", "500m": "44.428", "777m": "1:18.300", "1000m": "1:31.265", "1500m": "2:20.299"}, "skater_id": "7412"}, {"name": "SALTER JaTier", "country": "USA", "gender": "M", "age": 19, "age_category": "Junior A", "club": "DIRECT", "pbs": {"500m": "42.647", "1000m": "1:29.722", "1500m": "2:27.963"}, "skater_id": "7149"}, {"name": "WU Jonathan K", "country": "USA", "gender": "M", "age": 14, "age_category": "Junior C", "club": "OSC", "pbs": {"333m": "35.540", "500m": "41.904", "777m": "1:23.000", "1000m": "1:27.090", "1500m": "2:16.588"}, "skater_id": "6856"}, {"name": "HUANG Ryan", "country": "USA", "gender": "M", "age": 15, "age_category": "Junior C", "club": "PTSC", "pbs": {"333m": "35.810", "500m": "44.317", "777m": "1:17.116", "1000m": "1:29.184", "1500m": "2:24.455"}, "skater_id": "6817"}, {"name": "PALADINO Evan", "country": "USA", "gender": "M", "age": 17, "age_category": "Junior B", "club": "PTSC", "pbs": {"500m": "43.408", "777m": "1:12.991", "1000m": "1:28.811", "1500m": "1:38.446"}, "skater_id": "10132"}, {"name": "TOLLIVER Robert", "country": "USA", "gender": "M", "age": 16, "age_category": "Junior B", "club": "PTSC", "pbs": {"222m": "30.560", "333m": "39.140", "500m": "42.648", "777m": "1:12.023", "1000m": "1:27.774", "1500m": "2:23.694"}, "skater_id": "7233"}, {"name": "SONN Ethan", "country": "USA", "gender": "M", "age": 16, "age_category": "Junior B", "club": "GWSS", "pbs": {"333m": "38.060", "500m": "43.527", "777m": "1:13.480", "1000m": "1:28.408", "1500m": "2:23.407", "3000m": "6:00.230"}, "skater_id": "7508"}, {"name": "WANG William", "country": "USA", "gender": "M", "age": 17, "age_category": "Junior B", "club": "PSSP", "pbs": {"500m": "44.263", "777m": "1:11.706", "1000m": "1:29.336", "1500m": "2:25.079"}, "skater_id": "7055"}, {"name": "YI Michelle", "country": "USA", "gender": "F", "age": 19, "age_category": "Junior A", "club": "PTSC", "pbs": {"500m": "45.597", "777m": "1:14.400", "1000m": "1:34.692", "1500m": "2:30.993"}, "skater_id": "6901"}, {"name": "SU Selena", "country": "USA", "gender": "F", "age": 18, "age_category": "Junior A", "club": "GSSC", "pbs": {"500m": "45.878", "777m": "1:17.460", "1000m": "1:34.495", "1500m": "2:28.892"}, "skater_id": "6851"}, {"name": "RHODEHAMEL Elizabeth", "country": "USA", "gender": "F", "age": 18, "age_category": "Junior A", "club": "PNIC", "pbs": {"500m": "45.311", "777m": "1:16.800", "1000m": "1:34.196", "1500m": "2:27.888"}, "skater_id": "7031"}, {"name": "JANG Kyungeun Cindy", "country": "USA", "gender": "F", "age": 18, "age_category": "Junior A", "club": "PTSC", "pbs": {"500m": "45.675", "777m": "1:16.210", "1000m": "1:34.778", "1500m": "2:31.318"}, "skater_id": "6819"}, {"name": "JONES Wesley", "country": "USA", "gender": "M", "age": 18, "age_category": "Junior A", "club": "PNIC", "pbs": {"500m": "41.244", "777m": "1:10.920", "1000m": "1:24.594", "1500m": "2:11.543"}, "skater_id": "6820"}, {"name": "LIAO Brandon", "country": "USA", "gender": "M", "age": 17, "age_category": "Junior A", "club": "PNIC", "pbs": {"500m": "41.262", "777m": "1:10.715", "1000m": "1:26.345", "1500m": "2:11.645"}, "skater_id": "7041"}, {"name": "SHUAI Sean", "country": "USA", "gender": "M", "age": 19, "age_category": "Junior A", "club": "PTSC", "pbs": {"500m": "40.911", "777m": "1:10.940", "1000m": "1:24.501", "1500m": "2:13.495"}, "skater_id": "6880"}, {"name": "KAZANECKI Julius", "country": "USA", "gender": "M", "age": 19, "age_category": "Junior A", "club": "PTSC", "pbs": {"500m": "41.136", "777m": "1:08.230", "1000m": "1:24.358", "1500m": "2:14.865"}, "skater_id": "6822"}];
+
+let currentTab = 'girls';
+let currentDivision = 'all';
+
+function getBadgeClass(cat) {
+  if (cat.includes('Junior A')) return 'badge-jr-a';
+  if (cat.includes('Junior B')) return 'badge-jr-b';
+  if (cat.includes('Junior C')) return 'badge-jr-c';
+  if (cat.includes('Junior D')) return 'badge-jr-d';
+  if (cat.includes('Junior E')) return 'badge-jr-e';
+  if (cat.includes('Senior')) return 'badge-senior';
+  return 'badge-jr-c';
+}
+
+function parseTime(t) {
+  if (!t) return Infinity;
+  const s = String(t);
+  if (s.includes(':')) {
+    const parts = s.split(':');
+    return parseFloat(parts[0]) * 60 + parseFloat(parts[1]);
+  }
+  return parseFloat(s);
+}
+
+const distOrder = ['222m','260m','333m','500m','777m','1000m','1500m','3000m'];
+
+function sortDists(pbs) {
+  return Object.entries(pbs).sort((a, b) => {
+    const ai = distOrder.indexOf(a[0]);
+    const bi = distOrder.indexOf(b[0]);
+    return (ai === -1 ? 99 : ai) - (bi === -1 ? 99 : bi);
+  });
+}
+
+function getFiltered() {
+  let list = SKATERS;
+
+  // Filter by gender tab
+  if (currentTab === 'girls') list = list.filter(s => s.gender === 'F');
+  else if (currentTab === 'boys') list = list.filter(s => s.gender === 'M');
+
+  // Filter by division
+  if (currentDivision !== 'all') {
+    list = list.filter(s => s.age_category === currentDivision);
+  }
+
+  // Filter by search
+  const q = document.getElementById('searchInput').value.toLowerCase().trim();
+  if (q) {
+    list = list.filter(s =>
+      s.name.toLowerCase().includes(q) ||
+      s.club.toLowerCase().includes(q) ||
+      s.age_category.toLowerCase().includes(q)
+    );
+  }
+
+  // Sort by 500m PB
+  list.sort((a, b) => parseTime(a.pbs['500m']) - parseTime(b.pbs['500m']));
+
+  return list;
+}
+
+function renderCards() {
+  const list = getFiltered();
+  const container = document.getElementById('cardContainer');
+  const summary = document.getElementById('statsSummary');
+
+  if (list.length === 0) {
+    container.innerHTML = '<div class="no-results">No skaters found ⛸️</div>';
+    summary.textContent = '';
+    return;
+  }
+
+  summary.textContent = `Showing ${list.length} skater${list.length !== 1 ? 's' : ''}`;
+
+  container.innerHTML = list.map((s, i) => {
+    const rank = i + 1;
+    let rankClass = '';
+    if (rank === 1) rankClass = 'gold';
+    else if (rank === 2) rankClass = 'silver';
+    else if (rank === 3) rankClass = 'bronze';
+
+    const sortedPbs = sortDists(s.pbs);
+    const timesHTML = sortedPbs.map(([dist, time]) => `
+      <div class="time-item">
+        <div class="time-distance">${dist}</div>
+        <div class="time-value">${time}</div>
+      </div>
+    `).join('');
+
+    return `
+      <div class="skater-card">
+        <div class="skater-top">
+          <div style="display:flex;align-items:center;">
+            <div class="skater-rank ${rankClass}">${rank}</div>
+            <div class="skater-info">
+              <div class="skater-name">${formatName(s.name)}</div>
+              <div class="skater-details">
+                <span>Age: ${s.age}</span>
+                <span>Team: ${s.club}</span>
+              </div>
+            </div>
+          </div>
+          <span class="badge ${getBadgeClass(s.age_category)}">${s.age_category}</span>
+        </div>
+        <div class="times-grid">${timesHTML}</div>
+      </div>
+    `;
+  }).join('');
+}
+
+function formatName(name) {
+  return name.replace(/\s+/g, ' ').trim().split(' ').map(w =>
+    w.charAt(0).toUpperCase() + w.slice(1).toLowerCase()
+  ).join(' ');
+}
+
+function switchTab(tab) {
+  currentTab = tab;
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+  renderCards();
+}
+
+function filterDivision(div) {
+  currentDivision = div;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  event.target.classList.add('active');
+  renderCards();
+}
+
+document.getElementById('lastUpdated').textContent = new Date().toLocaleDateString('en-US', {
+  year: 'numeric', month: 'long', day: 'numeric'
+});
+
+renderCards();
+</script>
+
+</body>
+</html>
