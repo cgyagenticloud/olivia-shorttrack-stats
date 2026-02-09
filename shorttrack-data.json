@@ -1,0 +1,4835 @@
+[
+  {
+    "name": "WU  Lucas",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior C",
+    "club": "PTSC",
+    "pbs": {
+      "500m": "42.108",
+      "777m": "1:11.578",
+      "1000m": "1:27.922",
+      "1500m": "2:14.095"
+    },
+    "skater_id": "6900"
+  },
+  {
+    "name": "RHODEHAMEL  Elizabeth",
+    "country": "USA",
+    "gender": "F",
+    "age": 18,
+    "age_category": "Junior A",
+    "club": "PNIC",
+    "pbs": {
+      "500m": "45.311",
+      "777m": "1:16.800",
+      "1000m": "1:34.196",
+      "1500m": "2:27.888"
+    },
+    "skater_id": "7031"
+  },
+  {
+    "name": "JONES  Wesley",
+    "country": "USA",
+    "gender": "M",
+    "age": 18,
+    "age_category": "Junior A",
+    "club": "PNIC",
+    "pbs": {
+      "500m": "41.244",
+      "777m": "1:10.920",
+      "1000m": "1:24.594",
+      "1500m": "2:11.543"
+    },
+    "skater_id": "6820"
+  },
+  {
+    "name": "SALTER  JaTier",
+    "country": "USA",
+    "gender": "M",
+    "age": 19,
+    "age_category": "Junior A",
+    "club": "DIRECT",
+    "pbs": {
+      "500m": "42.647",
+      "1000m": "1:29.722",
+      "1500m": "2:27.963"
+    },
+    "skater_id": "7149"
+  },
+  {
+    "name": "JANG  Kyungeun Cindy",
+    "country": "USA",
+    "gender": "F",
+    "age": 18,
+    "age_category": "Junior A",
+    "club": "PTSC",
+    "pbs": {
+      "500m": "45.675",
+      "777m": "1:16.210",
+      "1000m": "1:34.778",
+      "1500m": "2:31.318"
+    },
+    "skater_id": "6819"
+  },
+  {
+    "name": "ZHANG  Tiffany",
+    "country": "USA",
+    "gender": "F",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "PTSC",
+    "pbs": {
+      "222m": "27.955",
+      "333m": "35.890",
+      "500m": "45.021",
+      "777m": "1:17.329",
+      "1000m": "1:33.332",
+      "1500m": "2:37.445"
+    },
+    "skater_id": "8156"
+  },
+  {
+    "name": "CHEN  Isabella",
+    "country": "USA",
+    "gender": "F",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "PTSC",
+    "pbs": {
+      "500m": "44.715",
+      "777m": "1:14.010",
+      "1000m": "1:32.955",
+      "1500m": "2:30.069"
+    },
+    "skater_id": "6787"
+  },
+  {
+    "name": "MENSAH  Sasha",
+    "country": "USA",
+    "gender": "F",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "DSSC",
+    "pbs": {
+      "500m": "46.348",
+      "777m": "1:17.709",
+      "1000m": "1:34.375",
+      "1500m": "2:30.716"
+    },
+    "skater_id": "7351"
+  },
+  {
+    "name": "KAZANECKI  Julius",
+    "country": "USA",
+    "gender": "M",
+    "age": 19,
+    "age_category": "Junior A",
+    "club": "PTSC",
+    "pbs": {
+      "500m": "41.136",
+      "777m": "1:08.230",
+      "1000m": "1:24.358",
+      "1500m": "2:14.865"
+    },
+    "skater_id": "6822"
+  },
+  {
+    "name": "CHAN  Vincent",
+    "country": "USA",
+    "gender": "M",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "PNIC",
+    "pbs": {
+      "333m": "37.320",
+      "500m": "42.773",
+      "777m": "1:11.874",
+      "1000m": "1:28.147",
+      "1500m": "2:16.487"
+    },
+    "skater_id": "7419"
+  },
+  {
+    "name": "SONN  Ethan",
+    "country": "USA",
+    "gender": "M",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "GWSS",
+    "pbs": {
+      "333m": "38.060",
+      "500m": "43.527",
+      "777m": "1:13.480",
+      "1000m": "1:28.408",
+      "1500m": "2:23.407",
+      "3000m": "6:00.230"
+    },
+    "skater_id": "7508"
+  },
+  {
+    "name": "KOONS  Sofia",
+    "country": "USA",
+    "gender": "F",
+    "age": 17,
+    "age_category": "Junior B",
+    "club": "PSSP",
+    "pbs": {
+      "333m": "36.920",
+      "500m": "45.311",
+      "777m": "1:16.431",
+      "1000m": "1:33.246",
+      "1500m": "2:27.113"
+    },
+    "skater_id": "6825"
+  },
+  {
+    "name": "CHEN  Winston",
+    "country": "USA",
+    "gender": "M",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "PSSP",
+    "pbs": {
+      "333m": "38.610",
+      "500m": "43.355",
+      "777m": "1:15.439",
+      "1000m": "1:30.612",
+      "1500m": "2:27.465"
+    },
+    "skater_id": "7008"
+  },
+  {
+    "name": "SULLIVAN  Benjamin",
+    "country": "USA",
+    "gender": "M",
+    "age": 17,
+    "age_category": "Junior B",
+    "club": "PTSC",
+    "pbs": {
+      "500m": "41.074",
+      "777m": "1:10.392",
+      "1000m": "1:25.253",
+      "1500m": "2:18.545"
+    },
+    "skater_id": "6881"
+  },
+  {
+    "name": "MONTES  Martzel",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "PSSP",
+    "pbs": {
+      "222m": "26.800",
+      "333m": "36.850",
+      "500m": "44.428",
+      "777m": "1:18.300",
+      "1000m": "1:31.265",
+      "1500m": "2:20.299"
+    },
+    "skater_id": "7412"
+  },
+  {
+    "name": "WANG  William",
+    "country": "USA",
+    "gender": "M",
+    "age": 17,
+    "age_category": "Junior B",
+    "club": "PSSP",
+    "pbs": {
+      "500m": "44.263",
+      "777m": "1:11.706",
+      "1000m": "1:29.336",
+      "1500m": "2:25.079"
+    },
+    "skater_id": "7055"
+  },
+  {
+    "name": "HUANG  Ryan",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior C",
+    "club": "PTSC",
+    "pbs": {
+      "333m": "35.810",
+      "500m": "44.317",
+      "777m": "1:17.116",
+      "1000m": "1:29.184",
+      "1500m": "2:24.455"
+    },
+    "skater_id": "6817"
+  },
+  {
+    "name": "JIN  Daniel",
+    "country": "USA",
+    "gender": "M",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "DIRECT",
+    "pbs": {
+      "500m": "41.787",
+      "1000m": "1:23.770",
+      "1500m": "2:19.292"
+    },
+    "skater_id": "10104"
+  },
+  {
+    "name": "TEGTMEIER  Carolyn",
+    "country": "USA",
+    "gender": "F",
+    "age": 15,
+    "age_category": "Junior B",
+    "club": "NBSSC",
+    "pbs": {
+      "333m": "38.540",
+      "500m": "47.242",
+      "777m": "1:15.450",
+      "1000m": "1:36.759",
+      "1500m": "2:31.713",
+      "3000m": "6:23.850"
+    },
+    "skater_id": "7421"
+  },
+  {
+    "name": "PALADINO  Evan",
+    "country": "USA",
+    "gender": "M",
+    "age": 17,
+    "age_category": "Junior B",
+    "club": "PTSC",
+    "pbs": {
+      "500m": "43.408",
+      "777m": "1:12.991",
+      "1000m": "1:28.811",
+      "1500m": "1:38.446"
+    },
+    "skater_id": "10132"
+  },
+  {
+    "name": "YI  Michelle",
+    "country": "USA",
+    "gender": "F",
+    "age": 19,
+    "age_category": "Junior A",
+    "club": "PTSC",
+    "pbs": {
+      "500m": "45.597",
+      "777m": "1:14.400",
+      "1000m": "1:34.692",
+      "1500m": "2:30.993"
+    },
+    "skater_id": "6901"
+  },
+  {
+    "name": "TOLLIVER  Robert",
+    "country": "USA",
+    "gender": "M",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "PTSC",
+    "pbs": {
+      "222m": "30.560",
+      "333m": "39.140",
+      "500m": "42.648",
+      "777m": "1:12.023",
+      "1000m": "1:27.774",
+      "1500m": "2:23.694"
+    },
+    "skater_id": "7233"
+  },
+  {
+    "name": "SU  Selena",
+    "country": "USA",
+    "gender": "F",
+    "age": 18,
+    "age_category": "Junior A",
+    "club": "GSSC",
+    "pbs": {
+      "500m": "45.878",
+      "777m": "1:17.460",
+      "1000m": "1:34.495",
+      "1500m": "2:28.892"
+    },
+    "skater_id": "6851"
+  },
+  {
+    "name": "KAZANECKA  Olimpia",
+    "country": "USA",
+    "gender": "F",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "PTSC",
+    "pbs": {
+      "500m": "44.332",
+      "777m": "16.200",
+      "1000m": "1:30.209",
+      "1500m": "2:20.888"
+    },
+    "skater_id": "6821"
+  },
+  {
+    "name": "WU  Jonathan K",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "OSC",
+    "pbs": {
+      "333m": "35.540",
+      "500m": "41.904",
+      "777m": "1:23.000",
+      "1000m": "1:27.090",
+      "1500m": "2:16.588"
+    },
+    "skater_id": "6856"
+  },
+  {
+    "name": "LIU  Aidan",
+    "country": "USA",
+    "gender": "M",
+    "age": 17,
+    "age_category": "Junior B",
+    "club": "PNIC",
+    "pbs": {
+      "500m": "41.471",
+      "777m": "1:10.093",
+      "1000m": "1:25.381",
+      "1500m": "2:13.507"
+    },
+    "skater_id": "6848"
+  },
+  {
+    "name": "SHUAI  Sean",
+    "country": "USA",
+    "gender": "M",
+    "age": 19,
+    "age_category": "Junior A",
+    "club": "PTSC",
+    "pbs": {
+      "500m": "40.911",
+      "777m": "1:10.940",
+      "1000m": "1:24.501",
+      "1500m": "2:13.495"
+    },
+    "skater_id": "6880"
+  },
+  {
+    "name": "LIAO  Brandon",
+    "country": "USA",
+    "gender": "M",
+    "age": 17,
+    "age_category": "Junior A",
+    "club": "PNIC",
+    "pbs": {
+      "500m": "41.262",
+      "777m": "1:10.715",
+      "1000m": "1:26.345",
+      "1500m": "2:11.645"
+    },
+    "skater_id": "7041"
+  },
+  {
+    "name": "DERHEIMER  Quinn Jonathan",
+    "country": "USA",
+    "gender": "M",
+    "age": 17,
+    "age_category": "Junior B",
+    "club": "PNIC",
+    "pbs": {
+      "500m": "41.776",
+      "777m": "1:12.150",
+      "1000m": "1:26.930",
+      "1500m": "2:17.562"
+    },
+    "skater_id": "6801"
+  },
+  {
+    "name": "POMETUN  Tatyana",
+    "country": "USA",
+    "gender": "F",
+    "age": 15,
+    "age_category": "Junior C",
+    "club": "EPSSC",
+    "pbs": {
+      "333m": "37.680",
+      "500m": "47.766",
+      "777m": "1:21.150",
+      "1000m": "1:39.896",
+      "1500m": "2:36.332"
+    },
+    "skater_id": "8131"
+  },
+  {
+    "name": "ZHANG  Zijun",
+    "country": "USA",
+    "gender": "F",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "ESSC",
+    "pbs": {
+      "333m": "38.842",
+      "500m": "53.260",
+      "777m": "1:24.200",
+      "1000m": "1:49.350"
+    },
+    "skater_id": "11140"
+  },
+  {
+    "name": "ZHAO  Eric",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior D",
+    "club": "GSSC",
+    "pbs": {
+      "107m": "16.590",
+      "214m": "28.590",
+      "222m": "28.930",
+      "333m": "42.310",
+      "321m": "40.460",
+      "428m": "1:02.692",
+      "500m": "1:02.830",
+      "777m": "1:43.070"
+    },
+    "skater_id": "8625"
+  },
+  {
+    "name": "CHEN  Eric",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "OSC",
+    "pbs": {
+      "333m": "45.495",
+      "428m": "49.746",
+      "500m": "51.901",
+      "777m": "1:22.576",
+      "1000m": "1:47.755"
+    },
+    "skater_id": "10389"
+  },
+  {
+    "name": "LIN  Ethan",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior C",
+    "club": "PTSC",
+    "pbs": {
+      "500m": "44.556",
+      "777m": "1:12.579",
+      "1000m": "1:30.991",
+      "1500m": "2:28.092"
+    },
+    "skater_id": "6875"
+  },
+  {
+    "name": "LIN  Lucas",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior D",
+    "club": "ESSC",
+    "pbs": {
+      "500m": "51.330",
+      "777m": "1:22.420",
+      "1000m": "1:44.940"
+    },
+    "skater_id": "11074"
+  },
+  {
+    "name": "SRINIVASULA  Priyanka",
+    "country": "USA",
+    "gender": "F",
+    "age": 15,
+    "age_category": "Junior B",
+    "club": "EPSSC",
+    "pbs": {
+      "333m": "39.080",
+      "500m": "50.576",
+      "777m": "1:20.769",
+      "1000m": "1:46.367",
+      "1500m": "2:48.700"
+    },
+    "skater_id": "9171"
+  },
+  {
+    "name": "HASALA  Philip",
+    "country": "USA",
+    "gender": "M",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "NBSSC",
+    "pbs": {
+      "333m": "39.370",
+      "500m": "46.820",
+      "777m": "1:14.450",
+      "1000m": "1:38.570",
+      "1500m": "2:43.490",
+      "3000m": "6:09.320"
+    },
+    "skater_id": "7415"
+  },
+  {
+    "name": "SMITH  Derek",
+    "country": "USA",
+    "gender": "M",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "OSC",
+    "pbs": {
+      "333m": "57.242"
+    },
+    "skater_id": "11136"
+  },
+  {
+    "name": "HAUSMAN  Carter",
+    "country": "USA",
+    "gender": "M",
+    "age": 13,
+    "age_category": "Junior D",
+    "club": "GWSS",
+    "pbs": {
+      "222m": "33.460",
+      "333m": "36.350",
+      "400m": "1:11.160",
+      "500m": "50.570",
+      "777m": "1:25.109",
+      "1000m": "1:45.890",
+      "1500m": "1:39.530"
+    },
+    "skater_id": "7959"
+  },
+  {
+    "name": "WU  Crystal",
+    "country": "USA",
+    "gender": "F",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "OSC",
+    "pbs": {
+      "107m": "13.050",
+      "214m": "24.520",
+      "222m": "27.170",
+      "333m": "39.295",
+      "321m": "32.960",
+      "383m": "49.740",
+      "500m": "49.378",
+      "777m": "1:19.744",
+      "1000m": "1:44.275",
+      "1500m": "2:40.673"
+    },
+    "skater_id": "6855"
+  },
+  {
+    "name": "CHEN  Joanna",
+    "country": "USA",
+    "gender": "F",
+    "age": 13,
+    "age_category": "Junior D",
+    "club": "SCSSC",
+    "pbs": {
+      "333m": "38.698",
+      "428m": "52.796",
+      "500m": "55.496",
+      "777m": "1:27.629"
+    },
+    "skater_id": "10393"
+  },
+  {
+    "name": "CHEN  Jeremy",
+    "country": "USA",
+    "gender": "M",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "OSC",
+    "pbs": {
+      "500m": "56.637",
+      "777m": "1:31.557",
+      "1000m": "1:56.134"
+    },
+    "skater_id": "11130"
+  },
+  {
+    "name": "ZHANG  Hengyi",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior C",
+    "club": "DIRECT",
+    "pbs": {
+      "500m": "48.091",
+      "777m": "1:19.666",
+      "1000m": "1:40.131",
+      "1500m": "2:38.118"
+    },
+    "skater_id": "10891"
+  },
+  {
+    "name": "CHEUNG  Aaron",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior C",
+    "club": "OSC",
+    "pbs": {
+      "214m": "23.049",
+      "333m": "36.593",
+      "321m": "33.465",
+      "428m": "44.958",
+      "500m": "45.698",
+      "777m": "1:18.226",
+      "1000m": "1:35.380",
+      "1500m": "2:30.240"
+    },
+    "skater_id": "8093"
+  },
+  {
+    "name": "XING  Leyan",
+    "country": "USA",
+    "gender": "F",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "OSC",
+    "pbs": {
+      "333m": "35.777",
+      "500m": "48.794",
+      "777m": "1:19.199",
+      "1000m": "1:42.657",
+      "1500m": "2:38.111"
+    },
+    "skater_id": "10112"
+  },
+  {
+    "name": "CRANE  Juliandrea",
+    "country": "USA",
+    "gender": "F",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "OSC",
+    "pbs": {
+      "333m": "37.737",
+      "428m": "41.803",
+      "500m": "51.808",
+      "777m": "1:22.199",
+      "1000m": "1:55.273"
+    },
+    "skater_id": "10126"
+  },
+  {
+    "name": "LI  Meinuo",
+    "country": "USA",
+    "gender": "F",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "DIRECT",
+    "pbs": {
+      "333m": "38.834",
+      "428m": "1:07.392",
+      "500m": "59.140"
+    },
+    "skater_id": "10392"
+  },
+  {
+    "name": "EINSLA  Russel",
+    "country": "USA",
+    "gender": "M",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "EPSSC",
+    "pbs": {
+      "222m": "26.990",
+      "333m": "34.842",
+      "500m": "48.452",
+      "777m": "1:18.426",
+      "1000m": "1:41.392",
+      "1500m": "2:38.906"
+    },
+    "skater_id": "8322"
+  },
+  {
+    "name": "POTHINA  Aarit",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior C",
+    "club": "GWSS",
+    "pbs": {
+      "500m": "56.127",
+      "777m": "1:30.134",
+      "1000m": "2:00.910",
+      "1500m": "3:11.600"
+    },
+    "skater_id": "10817"
+  },
+  {
+    "name": "LEE  Damien",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "OSC",
+    "pbs": {
+      "500m": "47.145",
+      "777m": "1:14.403",
+      "1000m": "1:38.666",
+      "1500m": "2:29.160"
+    },
+    "skater_id": "10109"
+  },
+  {
+    "name": "CHEUNG  Annabella",
+    "country": "USA",
+    "gender": "F",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "OSC",
+    "pbs": {
+      "214m": "30.407",
+      "321m": "43.754",
+      "428m": "59.737",
+      "500m": "51.947",
+      "777m": "1:23.684",
+      "1000m": "1:52.743"
+    },
+    "skater_id": "8094"
+  },
+  {
+    "name": "DWIVEDI  Naavya",
+    "country": "USA",
+    "gender": "F",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "GWSS",
+    "pbs": {
+      "222m": "35.380",
+      "333m": "2.580",
+      "500m": "56.250",
+      "777m": "1:30.850",
+      "1000m": "1:53.860"
+    },
+    "skater_id": "7954"
+  },
+  {
+    "name": "WANG  Elias",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "FMSC",
+    "pbs": {
+      "222m": "30.780",
+      "333m": "35.820",
+      "500m": "47.940",
+      "777m": "1:17.893",
+      "1000m": "1:40.380",
+      "1500m": "2:49.110"
+    },
+    "skater_id": "8633"
+  },
+  {
+    "name": "RANTA  Loki",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "BSS",
+    "pbs": {
+      "500m": "44.535",
+      "777m": "1:15.786",
+      "1000m": "1:30.851",
+      "1500m": "2:28.079"
+    },
+    "skater_id": "9085"
+  },
+  {
+    "name": "TAUB  Theodore",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "DSSC",
+    "pbs": {
+      "214m": "21.617",
+      "222m": "30.040",
+      "333m": "37.064",
+      "321m": "32.035",
+      "428m": "41.676",
+      "500m": "54.947",
+      "777m": "1:30.165",
+      "1000m": "1:53.877",
+      "1500m": "2:59.625"
+    },
+    "skater_id": "9881"
+  },
+  {
+    "name": "ZHANG  Evan",
+    "country": "USA",
+    "gender": "M",
+    "age": 13,
+    "age_category": "Junior C",
+    "club": "PTSC",
+    "pbs": {
+      "107m": "12.852",
+      "214m": "22.465",
+      "222m": "28.040",
+      "333m": "37.100",
+      "321m": "32.965",
+      "383m": "52.990",
+      "500m": "45.481",
+      "777m": "1:16.834",
+      "1000m": "1:34.630",
+      "1500m": "2:26.924"
+    },
+    "skater_id": "7241"
+  },
+  {
+    "name": "POTHINA  Aadvik",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "GWSS",
+    "pbs": {
+      "222m": "29.540",
+      "333m": "42.380",
+      "500m": "1:03.131",
+      "777m": "1:51.330"
+    },
+    "skater_id": "10816"
+  },
+  {
+    "name": "WU  Eric",
+    "country": "USA",
+    "gender": "M",
+    "age": 8,
+    "age_category": "Junior F",
+    "club": "DIRECT",
+    "pbs": {
+      "222m": "28.420",
+      "333m": "38.841",
+      "500m": "57.373"
+    },
+    "skater_id": "11117"
+  },
+  {
+    "name": "CALLAHAN  Grayson",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "GSSC",
+    "pbs": {
+      "214m": "27.840",
+      "222m": "28.741",
+      "333m": "40.520",
+      "321m": "33.660",
+      "428m": "1:01.730",
+      "500m": "1:01.020",
+      "777m": "1:37.270",
+      "1000m": "2:06.920"
+    },
+    "skater_id": "10359"
+  },
+  {
+    "name": "CHEN   Winny",
+    "country": "USA",
+    "gender": "F",
+    "age": 19,
+    "age_category": "Junior A",
+    "club": "PSSP",
+    "pbs": {
+      "500m": "49.490",
+      "777m": "1:21.420",
+      "1000m": "1:46.793",
+      "1500m": "2:41.238"
+    },
+    "skater_id": "7004"
+  },
+  {
+    "name": "TRINIDAD  Eben Emmanuel",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior C",
+    "club": "NBSSC",
+    "pbs": {
+      "222m": "32.780",
+      "333m": "34.210",
+      "500m": "47.480",
+      "777m": "1:12.214",
+      "1000m": "1:41.860",
+      "1500m": "2:42.621",
+      "3000m": "6:09.410"
+    },
+    "skater_id": "8259"
+  },
+  {
+    "name": "SULLIVAN  Veronica",
+    "country": "USA",
+    "gender": "F",
+    "age": 13,
+    "age_category": "Junior D",
+    "club": "PTSC",
+    "pbs": {
+      "107m": "12.626",
+      "214m": "22.730",
+      "222m": "25.376",
+      "333m": "35.308",
+      "321m": "31.800",
+      "428m": "42.530",
+      "383m": "53.690",
+      "500m": "48.064",
+      "777m": "1:13.420",
+      "1000m": "1:36.708",
+      "1500m": "2:37.922"
+    },
+    "skater_id": "6882"
+  },
+  {
+    "name": "ZHANG  Matthew Yepeng",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "OSC",
+    "pbs": {
+      "500m": "43.710",
+      "777m": "1:16.156",
+      "1000m": "1:34.860",
+      "1500m": "2:27.656"
+    },
+    "skater_id": "7204"
+  },
+  {
+    "name": "FENG  Xiaofan",
+    "country": "USA",
+    "gender": "F",
+    "age": 15,
+    "age_category": "Junior C",
+    "club": "SCSSC",
+    "pbs": {
+      "333m": "46.834",
+      "428m": "52.450",
+      "500m": "52.070",
+      "777m": "1:23.062",
+      "1000m": "1:48.090"
+    },
+    "skater_id": "10394"
+  },
+  {
+    "name": "CHAN  Vanessa",
+    "country": "USA",
+    "gender": "F",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "PSSP",
+    "pbs": {
+      "222m": "27.810",
+      "333m": "40.310",
+      "500m": "19.350",
+      "777m": "1:17.450",
+      "1000m": "1:33.351",
+      "1500m": "2:38.355"
+    },
+    "skater_id": "7423"
+  },
+  {
+    "name": "YIN  Ethan",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "ESSC",
+    "pbs": {
+      "107m": "14.149",
+      "214m": "24.723",
+      "222m": "25.330",
+      "333m": "36.350",
+      "321m": "37.327",
+      "428m": "45.558",
+      "500m": "52.168",
+      "777m": "1:21.263",
+      "1000m": "1:49.509"
+    },
+    "skater_id": "9065"
+  },
+  {
+    "name": "SHI  Lucas",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior C",
+    "club": "OSC",
+    "pbs": {
+      "500m": "44.834",
+      "777m": "1:12.344",
+      "1000m": "1:32.125",
+      "1500m": "2:27.219"
+    },
+    "skater_id": "10133"
+  },
+  {
+    "name": "ZHENG  Ryan",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior B",
+    "club": "DSSC",
+    "pbs": {
+      "333m": "38.400",
+      "500m": "47.805",
+      "777m": "1:22.226",
+      "1000m": "1:39.733",
+      "1500m": "2:39.561"
+    },
+    "skater_id": "8737"
+  },
+  {
+    "name": "HALL  Elijah",
+    "country": "USA",
+    "gender": "M",
+    "age": 8,
+    "age_category": "Junior F",
+    "club": "OSC",
+    "pbs": {
+      "333m": "40.985",
+      "500m": "58.982"
+    },
+    "skater_id": "11134"
+  },
+  {
+    "name": "NIU  Yiyang",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "ESSC",
+    "pbs": {
+      "222m": "27.320",
+      "333m": "38.057",
+      "500m": "54.368",
+      "777m": "1:26.562",
+      "1000m": "2:01.546"
+    },
+    "skater_id": "11087"
+  },
+  {
+    "name": "AJINGA  Gemma",
+    "country": "USA",
+    "gender": "F",
+    "age": 13,
+    "age_category": "Junior D",
+    "club": "CGS",
+    "pbs": {
+      "333m": "42.301",
+      "500m": "1:02.815"
+    },
+    "skater_id": "11145"
+  },
+  {
+    "name": "KOONS  Jack",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "LWSSC",
+    "pbs": {
+      "107m": "14.924",
+      "214m": "25.010",
+      "222m": "27.466",
+      "333m": "40.450",
+      "321m": "37.030",
+      "428m": "48.096",
+      "500m": "59.647",
+      "777m": "1:36.050",
+      "1000m": "2:05.290"
+    },
+    "skater_id": "7250"
+  },
+  {
+    "name": "CHOU  Makayla",
+    "country": "USA",
+    "gender": "F",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "PTSC",
+    "pbs": {
+      "107m": "11.738",
+      "214m": "21.379",
+      "222m": "25.900",
+      "333m": "35.700",
+      "321m": "31.923",
+      "428m": "42.091",
+      "500m": "44.452",
+      "777m": "1:16.351",
+      "1000m": "1:37.172",
+      "1500m": "2:39.381"
+    },
+    "skater_id": "8121"
+  },
+  {
+    "name": "ZHANG  Aiden 2007",
+    "country": "USA",
+    "gender": "M",
+    "age": 18,
+    "age_category": "Junior A",
+    "club": "PTSC",
+    "pbs": {
+      "333m": "34.075",
+      "500m": "46.712",
+      "777m": "1:15.228",
+      "1000m": "1:37.302",
+      "1500m": "2:43.350"
+    },
+    "skater_id": "7264"
+  },
+  {
+    "name": "LEE  Clara",
+    "country": "USA",
+    "gender": "F",
+    "age": 13,
+    "age_category": "Junior D",
+    "club": "GSSC",
+    "pbs": {
+      "107m": "13.690",
+      "214m": "25.900",
+      "222m": "25.205",
+      "333m": "36.220",
+      "321m": "37.290",
+      "500m": "49.432",
+      "777m": "1:20.569",
+      "1000m": "1:44.350",
+      "1500m": "2:43.950"
+    },
+    "skater_id": "9157"
+  },
+  {
+    "name": "FULLER  Leilani",
+    "country": "USA",
+    "gender": "F",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "DSSC",
+    "pbs": {
+      "107m": "14.330",
+      "214m": "22.222",
+      "222m": "31.200",
+      "333m": "36.448",
+      "321m": "32.548",
+      "428m": "42.229",
+      "500m": "52.091",
+      "777m": "1:28.305",
+      "1000m": "1:53.333",
+      "1500m": "2:53.135"
+    },
+    "skater_id": "9174"
+  },
+  {
+    "name": "GIRACH  Sarah",
+    "country": "USA",
+    "gender": "F",
+    "age": 17,
+    "age_category": "Junior A",
+    "club": "DSSC",
+    "pbs": {
+      "500m": "48.842",
+      "777m": "1:15.381",
+      "1000m": "1:42.774",
+      "1500m": "2:40.312"
+    },
+    "skater_id": "7333"
+  },
+  {
+    "name": "CHEN  Haozhe",
+    "country": "USA",
+    "gender": "M",
+    "age": 8,
+    "age_category": "Junior F",
+    "club": "SCSSC",
+    "pbs": {
+      "333m": "49.562",
+      "500m": "1:12.602"
+    },
+    "skater_id": "11137"
+  },
+  {
+    "name": "LI  Victor",
+    "country": "USA",
+    "gender": "M",
+    "age": 17,
+    "age_category": "Junior B",
+    "club": "GWSS",
+    "pbs": {
+      "222m": "31.560",
+      "333m": "41.270",
+      "500m": "48.913",
+      "777m": "54.020",
+      "1000m": "1:41.505",
+      "1500m": "2:42.875"
+    },
+    "skater_id": "7465"
+  },
+  {
+    "name": "HUANG  Royce",
+    "country": "USA",
+    "gender": "M",
+    "age": 9,
+    "age_category": "Junior E",
+    "club": "ESSC",
+    "pbs": {
+      "333m": "40.762",
+      "500m": "58.369",
+      "777m": "1:31.903"
+    },
+    "skater_id": "11086"
+  },
+  {
+    "name": "WALLACE  Kaden",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "OSC",
+    "pbs": {
+      "333m": "42.713",
+      "500m": "58.150"
+    },
+    "skater_id": "11133"
+  },
+  {
+    "name": "MEACHAM  Atira",
+    "country": "USA",
+    "gender": "F",
+    "age": 13,
+    "age_category": "Junior D",
+    "club": "CGS",
+    "pbs": {
+      "214m": "28.884",
+      "222m": "31.980",
+      "333m": "38.412",
+      "321m": "40.284",
+      "428m": "49.662",
+      "500m": "56.068",
+      "777m": "1:27.348",
+      "1000m": "1:55.520"
+    },
+    "skater_id": "7176"
+  },
+  {
+    "name": "FAN  Kevin",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "ESSC",
+    "pbs": {
+      "107m": "14.096",
+      "214m": "27.028",
+      "222m": "29.760",
+      "333m": "43.290",
+      "321m": "37.655",
+      "428m": "50.409",
+      "500m": "1:04.351"
+    },
+    "skater_id": "10144"
+  },
+  {
+    "name": "ZHANG  Yucheng",
+    "country": "USA",
+    "gender": "M",
+    "age": 7,
+    "age_category": "Junior G",
+    "club": "ESSC",
+    "pbs": {
+      "333m": "40.281",
+      "500m": "1:00.571"
+    },
+    "skater_id": "11135"
+  },
+  {
+    "name": "CHEN  Theodore",
+    "country": "USA",
+    "gender": "M",
+    "age": 9,
+    "age_category": "Junior E",
+    "club": "OSC",
+    "pbs": {
+      "333m": "38.565",
+      "428m": "48.384",
+      "500m": "55.417",
+      "777m": "1:28.419",
+      "1000m": "1:57.911"
+    },
+    "skater_id": "10395"
+  },
+  {
+    "name": "YANG  Timothy",
+    "country": "USA",
+    "gender": "M",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "NBSSC",
+    "pbs": {
+      "214m": "23.461",
+      "222m": "27.621",
+      "333m": "35.180",
+      "321m": "33.844",
+      "428m": "45.683",
+      "500m": "50.750",
+      "777m": "1:19.260",
+      "1000m": "1:46.496",
+      "1500m": "2:51.260",
+      "3000m": "7:30.180"
+    },
+    "skater_id": "8922"
+  },
+  {
+    "name": "WANG  Bryan",
+    "country": "USA",
+    "gender": "M",
+    "age": 13,
+    "age_category": "Junior D",
+    "club": "PTSC",
+    "pbs": {
+      "107m": "11.657",
+      "214m": "21.359",
+      "222m": "24.300",
+      "333m": "33.386",
+      "321m": "30.828",
+      "428m": "45.490",
+      "383m": "54.440",
+      "500m": "45.930",
+      "777m": "1:16.538",
+      "1000m": "1:35.130",
+      "1500m": "2:37.058"
+    },
+    "skater_id": "7144"
+  },
+  {
+    "name": "LEE  Kendra",
+    "country": "USA",
+    "gender": "F",
+    "age": 11,
+    "age_category": "Junior D",
+    "club": "ESSC",
+    "pbs": {
+      "107m": "14.156",
+      "214m": "22.379",
+      "333m": "36.262",
+      "321m": "33.722",
+      "428m": "42.716",
+      "500m": "52.839",
+      "777m": "1:23.675",
+      "1000m": "1:52.930"
+    },
+    "skater_id": "9114"
+  },
+  {
+    "name": "DING  Iris",
+    "country": "USA",
+    "gender": "F",
+    "age": 9,
+    "age_category": "Junior E",
+    "club": "ESSC",
+    "pbs": {
+      "222m": "28.060",
+      "333m": "40.081",
+      "500m": "1:00.195"
+    },
+    "skater_id": "11141"
+  },
+  {
+    "name": "LORENZ  Matthew",
+    "country": "USA",
+    "gender": "M",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "NBSSC",
+    "pbs": {
+      "500m": "46.314",
+      "777m": "1:17.768",
+      "1000m": "1:36.564",
+      "1500m": "2:37.273"
+    },
+    "skater_id": "6866"
+  },
+  {
+    "name": "BLITZER  Amy",
+    "country": "USA",
+    "gender": "F",
+    "age": 7,
+    "age_category": "Junior G",
+    "club": "DIRECT",
+    "pbs": {
+      "333m": "45.858",
+      "500m": "1:07.138"
+    },
+    "skater_id": "11144"
+  },
+  {
+    "name": "OLER  Jasmine",
+    "country": "USA",
+    "gender": "F",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "OSC",
+    "pbs": {
+      "214m": "30.802",
+      "333m": "36.214",
+      "321m": "44.651",
+      "428m": "44.051",
+      "500m": "52.523",
+      "777m": "1:23.527",
+      "1000m": "1:56.700"
+    },
+    "skater_id": "8108"
+  },
+  {
+    "name": "HAUSMAN  Aubrey",
+    "country": "USA",
+    "gender": "F",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "GWSS",
+    "pbs": {
+      "107m": "16.510",
+      "214m": "37.580",
+      "222m": "35.450",
+      "333m": "55.390",
+      "321m": "44.960",
+      "428m": "1:02.950",
+      "500m": "1:13.747",
+      "777m": "2:08.910"
+    },
+    "skater_id": "7950"
+  },
+  {
+    "name": "LEE  Zachary",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "PTSC",
+    "pbs": {
+      "222m": "24.923",
+      "333m": "36.748",
+      "500m": "48.230",
+      "777m": "1:12.473",
+      "1000m": "1:39.110",
+      "1500m": "2:36.230"
+    },
+    "skater_id": "9877"
+  },
+  {
+    "name": "SONN  Andrew",
+    "country": "USA",
+    "gender": "M",
+    "age": 13,
+    "age_category": "Junior C",
+    "club": "GWSS",
+    "pbs": {
+      "222m": "28.660",
+      "333m": "37.188",
+      "500m": "45.572",
+      "777m": "1:14.273",
+      "1000m": "1:35.876",
+      "1500m": "2:33.408"
+    },
+    "skater_id": "7504"
+  },
+  {
+    "name": "DE BOCK  Nickolas",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "OSC",
+    "pbs": {
+      "500m": "46.442",
+      "777m": "1:15.865",
+      "1000m": "1:37.081",
+      "1500m": "2:34.870"
+    },
+    "skater_id": "10106"
+  },
+  {
+    "name": "NICHOLS  Eric",
+    "country": "USA",
+    "gender": "M",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "FTSST",
+    "pbs": {
+      "222m": "28.214",
+      "333m": "34.920",
+      "500m": "51.760",
+      "777m": "1:23.097",
+      "1000m": "1:46.016",
+      "1500m": "2:57.870"
+    },
+    "skater_id": "10165"
+  },
+  {
+    "name": "JIANG  Miles",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "ESSC",
+    "pbs": {
+      "107m": "14.809",
+      "214m": "22.066",
+      "222m": "24.230",
+      "333m": "34.840",
+      "321m": "31.476",
+      "428m": "41.196",
+      "500m": "49.949",
+      "777m": "1:21.326",
+      "1000m": "1:43.592"
+    },
+    "skater_id": "9096"
+  },
+  {
+    "name": "GAO  Candice",
+    "country": "USA",
+    "gender": "F",
+    "age": 9,
+    "age_category": "Junior F",
+    "club": "DIRECT",
+    "pbs": {
+      "333m": "40.187",
+      "428m": "1:00.170",
+      "500m": "58.169"
+    },
+    "skater_id": "10390"
+  },
+  {
+    "name": "LIAN  Iris",
+    "country": "USA",
+    "gender": "F",
+    "age": 11,
+    "age_category": "Junior D",
+    "club": "ESSC",
+    "pbs": {
+      "222m": "25.440",
+      "333m": "36.640",
+      "500m": "54.099",
+      "777m": "1:27.508",
+      "1000m": "1:55.323"
+    },
+    "skater_id": "11142"
+  },
+  {
+    "name": "SUN  Alvin",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "ESSC",
+    "pbs": {
+      "107m": "16.250",
+      "214m": "21.625",
+      "333m": "39.592",
+      "321m": "31.069",
+      "428m": "40.836",
+      "500m": "51.820",
+      "777m": "1:22.407",
+      "1000m": "1:44.435"
+    },
+    "skater_id": "9069"
+  },
+  {
+    "name": "GROSECLOSE  Peter",
+    "country": "USA",
+    "gender": "M",
+    "age": 18,
+    "age_category": "Junior A",
+    "club": "PTSC",
+    "pbs": {
+      "500m": "41.692",
+      "777m": "1:08.230",
+      "1000m": "1:26.030",
+      "1500m": "2:13.908"
+    },
+    "skater_id": "6809"
+  },
+  {
+    "name": "DWIVEDI  Rishaan",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "GWSS",
+    "pbs": {
+      "107m": "19.160",
+      "165m": "11.640",
+      "214m": "29.010",
+      "222m": "37.000",
+      "333m": "42.230",
+      "321m": "43.960",
+      "428m": "56.230",
+      "500m": "1:00.960",
+      "777m": "1:42.740",
+      "666m": "31.420",
+      "1000m": "2:09.960"
+    },
+    "skater_id": "7948"
+  },
+  {
+    "name": "KELLY  Hugo Arthur",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior C",
+    "club": "DSSC",
+    "pbs": {
+      "333m": "36.720",
+      "500m": "45.645",
+      "777m": "1:16.274",
+      "1000m": "1:33.899",
+      "1500m": "2:29.580"
+    },
+    "skater_id": "8162"
+  },
+  {
+    "name": "SHI  Noah",
+    "country": "USA",
+    "gender": "M",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "OSC",
+    "pbs": {
+      "333m": "35.858",
+      "500m": "51.053",
+      "777m": "1:20.651",
+      "1000m": "1:46.206"
+    },
+    "skater_id": "10111"
+  },
+  {
+    "name": "ELLISON  Andrew",
+    "country": "USA",
+    "gender": "M",
+    "age": 18,
+    "age_category": "Junior A",
+    "club": "NBSSC",
+    "pbs": {
+      "500m": "47.022",
+      "777m": "1:17.760",
+      "1000m": "1:38.434",
+      "1500m": "2:08.620",
+      "3000m": "6:09.300"
+    },
+    "skater_id": "7513"
+  },
+  {
+    "name": "GAO  Candy",
+    "country": "USA",
+    "gender": "F",
+    "age": 9,
+    "age_category": "Junior F",
+    "club": "DIRECT",
+    "pbs": {
+      "333m": "41.281",
+      "428m": "57.709",
+      "500m": "1:00.621"
+    },
+    "skater_id": "10391"
+  },
+  {
+    "name": "YU  Aiden",
+    "country": "USA",
+    "gender": "M",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "PSSP",
+    "pbs": {
+      "333m": "37.280",
+      "500m": "45.463",
+      "777m": "1:16.346",
+      "1000m": "1:31.225",
+      "1500m": "2:28.547"
+    },
+    "skater_id": "7425"
+  },
+  {
+    "name": "VREELAND  Tony",
+    "country": "USA",
+    "gender": "M",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "OSC",
+    "pbs": {
+      "500m": "49.177",
+      "777m": "1:18.534",
+      "1000m": "1:43.470"
+    },
+    "skater_id": "11129"
+  },
+  {
+    "name": "HUANG  Hannah",
+    "country": "USA",
+    "gender": "F",
+    "age": 13,
+    "age_category": "Junior D",
+    "club": "PTSC",
+    "pbs": {
+      "107m": "12.559",
+      "214m": "22.344",
+      "222m": "26.709",
+      "333m": "36.570",
+      "321m": "31.947",
+      "428m": "44.170",
+      "500m": "49.356",
+      "777m": "1:17.890",
+      "1000m": "1:42.811",
+      "1500m": "2:42.510"
+    },
+    "skater_id": "6816"
+  },
+  {
+    "name": "THOMAS  Flynn",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "PCSC",
+    "pbs": {
+      "333m": "39.146",
+      "500m": "58.694"
+    },
+    "skater_id": "11138"
+  },
+  {
+    "name": "WU  Julia",
+    "country": "USA",
+    "gender": "F",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "GSSC",
+    "pbs": {
+      "107m": "12.284",
+      "214m": "22.672",
+      "222m": "26.900",
+      "333m": "37.200",
+      "321m": "32.900",
+      "383m": "48.760",
+      "500m": "49.072",
+      "777m": "1:19.646",
+      "1000m": "1:46.896",
+      "1500m": "2:47.670"
+    },
+    "skater_id": "7274"
+  },
+  {
+    "name": "RAMACHANDRAN  Harshini",
+    "country": "USA",
+    "gender": "F",
+    "age": 13,
+    "age_category": "Junior D",
+    "club": "GSSC",
+    "pbs": {
+      "222m": "28.020",
+      "333m": "35.560",
+      "500m": "48.742",
+      "777m": "1:12.309",
+      "1000m": "1:40.558",
+      "1500m": "2:43.388"
+    },
+    "skater_id": "9637"
+  },
+  {
+    "name": "GROSSENBACH  Oscar",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "NBSSC",
+    "pbs": {
+      "222m": "27.280",
+      "333m": "39.200",
+      "500m": "56.360",
+      "777m": "1:25.900",
+      "1000m": "1:53.610",
+      "1500m": "3:06.840"
+    },
+    "skater_id": "7496"
+  },
+  {
+    "name": "BIEDENBENDER  Liam",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "NBSSC",
+    "pbs": {
+      "107m": "23.460",
+      "214m": "23.217",
+      "222m": "26.730",
+      "333m": "38.540",
+      "321m": "33.190",
+      "428m": "45.520",
+      "400m": "1:11.670",
+      "500m": "57.450",
+      "777m": "1:30.290",
+      "1000m": "1:56.820",
+      "1500m": "3:24.400"
+    },
+    "skater_id": "7398"
+  },
+  {
+    "name": "GUPTA  Vivaan",
+    "country": "USA",
+    "gender": "M",
+    "age": 13,
+    "age_category": "Junior D",
+    "club": "FTSST",
+    "pbs": {
+      "107m": "17.100",
+      "214m": "29.460",
+      "222m": "27.720",
+      "333m": "38.780",
+      "321m": "44.210",
+      "500m": "55.230",
+      "777m": "1:29.370",
+      "1000m": "1:57.770"
+    },
+    "skater_id": "7494"
+  },
+  {
+    "name": "HAMMACK  Niko",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "CRS",
+    "pbs": {
+      "214m": "25.410",
+      "222m": "29.250",
+      "333m": "40.850",
+      "321m": "36.800",
+      "428m": "48.110",
+      "500m": "1:00.130",
+      "777m": "1:32.140",
+      "1000m": "2:06.320"
+    },
+    "skater_id": "10520"
+  },
+  {
+    "name": "HOLTERMAN  Caleb",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "CRS",
+    "pbs": {
+      "222m": "29.540",
+      "333m": "43.420",
+      "500m": "1:01.740",
+      "777m": "1:36.110"
+    },
+    "skater_id": "11226"
+  },
+  {
+    "name": "MARIMOTO TAQUEUSHI  Joao Gabriel",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "FTSST",
+    "pbs": {
+      "107m": "15.610",
+      "214m": "24.091",
+      "222m": "29.010",
+      "333m": "42.790",
+      "321m": "36.341",
+      "428m": "47.942",
+      "500m": "1:02.732",
+      "777m": "1:42.690",
+      "1000m": "2:28.840"
+    },
+    "skater_id": "7179"
+  },
+  {
+    "name": "FORTNER  Quin",
+    "country": "USA",
+    "gender": "M",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "FTSST",
+    "pbs": {
+      "222m": "28.700",
+      "333m": "41.780",
+      "321m": "44.980",
+      "428m": "58.370",
+      "500m": "1:01.010",
+      "777m": "1:36.100",
+      "1000m": "2:04.150"
+    },
+    "skater_id": "8920"
+  },
+  {
+    "name": "IGOE  Anne",
+    "country": "USA",
+    "gender": "F",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "NBSSC",
+    "pbs": {
+      "222m": "27.480",
+      "333m": "38.618",
+      "500m": "56.260",
+      "777m": "1:29.890",
+      "1000m": "1:55.890",
+      "1500m": "3:18.970"
+    },
+    "skater_id": "7976"
+  },
+  {
+    "name": "MEIR  Edward",
+    "country": "USA",
+    "gender": "M",
+    "age": 9,
+    "age_category": "Junior E",
+    "club": "FTSST",
+    "pbs": {
+      "107m": "15.070",
+      "222m": "31.300",
+      "333m": "45.750",
+      "321m": "41.110",
+      "428m": "54.210",
+      "500m": "1:09.390",
+      "777m": "1:50.860"
+    },
+    "skater_id": "9337"
+  },
+  {
+    "name": "TRUPIN  Lyle",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "CRS",
+    "pbs": {
+      "107m": "15.280",
+      "214m": "30.100",
+      "222m": "29.360",
+      "333m": "43.980",
+      "321m": "43.120",
+      "500m": "1:03.550",
+      "777m": "1:42.630"
+    },
+    "skater_id": "10820"
+  },
+  {
+    "name": "MARIMOTO TAQUEUSHI  Lu\u00eds Fernando",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "FTSST",
+    "pbs": {
+      "222m": "28.370",
+      "333m": "33.960",
+      "321m": "34.890",
+      "428m": "46.700",
+      "383m": "1:00.100",
+      "500m": "47.870",
+      "777m": "1:17.965",
+      "1000m": "1:42.242",
+      "1500m": "2:35.584"
+    },
+    "skater_id": "6846"
+  },
+  {
+    "name": "CHIMEDTSEREN  Teven",
+    "country": "USA",
+    "gender": "M",
+    "age": 17,
+    "age_category": "Junior B",
+    "club": "MSC",
+    "pbs": {
+      "333m": "33.960",
+      "500m": "49.240",
+      "777m": "1:18.630",
+      "1000m": "1:43.420",
+      "1500m": "2:46.880",
+      "3000m": "6:17.730"
+    },
+    "skater_id": "7426"
+  },
+  {
+    "name": "BRAUN  Jackson",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "NBSSC",
+    "pbs": {
+      "214m": "34.420",
+      "222m": "27.730",
+      "333m": "39.230",
+      "321m": "52.500",
+      "428m": "1:31.240",
+      "500m": "56.410",
+      "777m": "1:37.470",
+      "1000m": "2:32.230"
+    },
+    "skater_id": "8919"
+  },
+  {
+    "name": "SEARS  Liam",
+    "country": "USA",
+    "gender": "M",
+    "age": 13,
+    "age_category": "Junior D",
+    "club": "CRS",
+    "pbs": {
+      "222m": "30.090",
+      "333m": "35.740",
+      "500m": "51.200",
+      "777m": "1:18.700",
+      "1000m": "1:45.899",
+      "1500m": "2:50.120",
+      "3000m": "7:30.120"
+    },
+    "skater_id": "7065"
+  },
+  {
+    "name": "KIEFER  Wyatt",
+    "country": "USA",
+    "gender": "M",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "FTSST",
+    "pbs": {
+      "333m": "34.760",
+      "500m": "50.120",
+      "777m": "1:20.800",
+      "1000m": "1:46.178",
+      "1500m": "2:45.332"
+    },
+    "skater_id": "8390"
+  },
+  {
+    "name": "PHIPPS  Finn",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "FTSST",
+    "pbs": {
+      "107m": "16.600",
+      "214m": "31.160",
+      "222m": "33.290",
+      "333m": "46.730",
+      "321m": "47.370",
+      "500m": "1:13.100",
+      "777m": "1:55.840"
+    },
+    "skater_id": "10821"
+  },
+  {
+    "name": "HAN  Jihee",
+    "country": "USA",
+    "gender": "F",
+    "age": 13,
+    "age_category": "Junior D",
+    "club": "NBSSC",
+    "pbs": {
+      "222m": "28.100",
+      "333m": "38.470",
+      "500m": "54.840",
+      "777m": "1:27.230",
+      "1000m": "1:50.960",
+      "1500m": "3:01.180",
+      "3000m": "6:33.180"
+    },
+    "skater_id": "9334"
+  },
+  {
+    "name": "REINOLD  Seth",
+    "country": "USA",
+    "gender": "M",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "NBSSC",
+    "pbs": {
+      "333m": "34.280",
+      "500m": "48.940",
+      "777m": "1:18.510",
+      "1000m": "1:41.390",
+      "1500m": "2:40.070",
+      "3000m": "6:11.510"
+    },
+    "skater_id": "7983"
+  },
+  {
+    "name": "LOPUSZYNSKI  Henry",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior C",
+    "club": "GESS",
+    "pbs": {
+      "222m": "30.830",
+      "333m": "34.420",
+      "500m": "50.220",
+      "777m": "1:18.850",
+      "1000m": "1:45.320",
+      "1500m": "2:47.700",
+      "3000m": "7:27.570"
+    },
+    "skater_id": "7428"
+  },
+  {
+    "name": "BARATS  Ari",
+    "country": "USA",
+    "gender": "M",
+    "age": 7,
+    "age_category": "Junior G",
+    "club": "NBSSC",
+    "pbs": {
+      "107m": "19.850",
+      "214m": "38.110",
+      "222m": "37.080",
+      "333m": "55.230",
+      "383m": "47.890",
+      "500m": "1:28.670"
+    },
+    "skater_id": "11227"
+  },
+  {
+    "name": "MARIMOTO-TAQUEUSHI  Maria Clara",
+    "country": "USA",
+    "gender": "F",
+    "age": 17,
+    "age_category": "Junior A",
+    "club": "FTSST",
+    "pbs": {
+      "222m": "26.426",
+      "333m": "37.040",
+      "500m": "54.250",
+      "777m": "1:26.500",
+      "1000m": "1:45.770",
+      "1500m": "2:54.551"
+    },
+    "skater_id": "10164"
+  },
+  {
+    "name": "TAN  Ethan",
+    "country": "USA",
+    "gender": "M",
+    "age": 9,
+    "age_category": "Junior F",
+    "club": "FTSST",
+    "pbs": {
+      "222m": "28.600",
+      "333m": "42.480",
+      "500m": "1:03.420",
+      "777m": "1:41.740"
+    },
+    "skater_id": "9345"
+  },
+  {
+    "name": "WANG  Jancis",
+    "country": "USA",
+    "gender": "M",
+    "age": 8,
+    "age_category": "Junior F",
+    "club": "CRS",
+    "pbs": {
+      "222m": "27.130",
+      "333m": "39.450",
+      "500m": "57.890",
+      "777m": "1:33.730",
+      "1000m": "1:57.920"
+    },
+    "skater_id": "10439"
+  },
+  {
+    "name": "WANG  Jayden",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "CRS",
+    "pbs": {
+      "222m": "26.760",
+      "333m": "37.620",
+      "500m": "55.240",
+      "777m": "1:29.320",
+      "1000m": "1:57.440",
+      "1500m": "3:42.380"
+    },
+    "skater_id": "10400"
+  },
+  {
+    "name": "THOUMA  Nathaniel",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "PSSP",
+    "pbs": {
+      "222m": "25.930",
+      "333m": "38.330",
+      "500m": "48.640",
+      "777m": "1:18.942",
+      "1000m": "1:44.393",
+      "1500m": "2:40.707"
+    },
+    "skater_id": "7433"
+  },
+  {
+    "name": "YAROSH  Addison",
+    "country": "USA",
+    "gender": "F",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "LWSSC",
+    "pbs": {
+      "333m": "38.880",
+      "500m": "51.500",
+      "777m": "1:22.280",
+      "1000m": "1:44.090",
+      "1500m": "2:52.430",
+      "3000m": "6:25.760"
+    },
+    "skater_id": "7125"
+  },
+  {
+    "name": "CHIEN  Ian",
+    "country": "USA",
+    "gender": "M",
+    "age": 18,
+    "age_category": "Junior A",
+    "club": "PSSP",
+    "pbs": {
+      "500m": "44.370",
+      "777m": "1:12.350",
+      "1000m": "1:31.208",
+      "1500m": "2:23.371"
+    },
+    "skater_id": "7405"
+  },
+  {
+    "name": "SINGH  Arjun",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "PSSP",
+    "pbs": {
+      "214m": "33.220",
+      "222m": "25.978",
+      "333m": "35.677",
+      "321m": "52.160",
+      "500m": "51.180",
+      "777m": "1:23.890",
+      "1000m": "1:47.144",
+      "1500m": "3:18.110"
+    },
+    "skater_id": "8033"
+  },
+  {
+    "name": "LI  Brian",
+    "country": "USA",
+    "gender": "M",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "PSSP",
+    "pbs": {
+      "107m": "21.540",
+      "214m": "22.871",
+      "222m": "28.390",
+      "333m": "36.985",
+      "321m": "33.465",
+      "428m": "43.450",
+      "400m": "1:10.290",
+      "500m": "52.100",
+      "777m": "1:22.840",
+      "1000m": "1:47.910",
+      "1500m": "3:18.150"
+    },
+    "skater_id": "7480"
+  },
+  {
+    "name": "MONTES  Jax",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "PSSP",
+    "pbs": {
+      "107m": "25.190",
+      "214m": "23.944",
+      "222m": "24.540",
+      "333m": "34.760",
+      "321m": "34.257",
+      "428m": "43.759",
+      "400m": "1:21.340",
+      "500m": "50.740",
+      "777m": "1:22.170",
+      "1000m": "1:45.423",
+      "1500m": "3:01.423"
+    },
+    "skater_id": "7400"
+  },
+  {
+    "name": "YU  Max",
+    "country": "USA",
+    "gender": "M",
+    "age": 9,
+    "age_category": "Junior E",
+    "club": "PSSP",
+    "pbs": {
+      "107m": "13.367",
+      "214m": "22.526",
+      "222m": "24.950",
+      "333m": "35.260",
+      "321m": "32.321",
+      "428m": "50.794",
+      "500m": "52.730",
+      "777m": "1:22.640",
+      "1000m": "1:55.290"
+    },
+    "skater_id": "7482"
+  },
+  {
+    "name": "WILSON  Olivia",
+    "country": "USA",
+    "gender": "F",
+    "age": 9,
+    "age_category": "Junior E",
+    "club": "EBSSC",
+    "pbs": {
+      "107m": "15.310",
+      "222m": "30.287",
+      "333m": "44.214",
+      "321m": "42.880",
+      "428m": "55.370",
+      "500m": "1:02.510",
+      "777m": "1:44.760"
+    },
+    "skater_id": "10428"
+  },
+  {
+    "name": "WU  Justin",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "PSSP",
+    "pbs": {
+      "107m": "17.370",
+      "214m": "20.878",
+      "222m": "24.010",
+      "333m": "34.730",
+      "321m": "30.629",
+      "428m": "46.106",
+      "500m": "50.950",
+      "777m": "1:22.040",
+      "1000m": "1:45.084",
+      "1500m": "3:01.074"
+    },
+    "skater_id": "7946"
+  },
+  {
+    "name": "WANTA  Max",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "PSSP",
+    "pbs": {
+      "214m": "33.410",
+      "222m": "26.630",
+      "333m": "38.683",
+      "321m": "47.590",
+      "500m": "55.290",
+      "777m": "1:28.900"
+    },
+    "skater_id": "8034"
+  },
+  {
+    "name": "SCHOWALTER  Jackson",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "GWSS",
+    "pbs": {
+      "222m": "30.260",
+      "333m": "45.260",
+      "500m": "56.760",
+      "777m": "1:28.860",
+      "1000m": "1:58.870"
+    },
+    "skater_id": "10430"
+  },
+  {
+    "name": "WU  Jiaxuan",
+    "country": "USA",
+    "gender": "F",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "PSSP",
+    "pbs": {
+      "222m": "27.040",
+      "333m": "38.454",
+      "400m": "1:02.410",
+      "500m": "51.170",
+      "777m": "1:20.910",
+      "1000m": "1:49.440",
+      "1500m": "3:00.103"
+    },
+    "skater_id": "7463"
+  },
+  {
+    "name": "LING  Luke",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "PSSP",
+    "pbs": {
+      "107m": "15.160",
+      "214m": "29.217",
+      "222m": "28.980",
+      "333m": "40.360",
+      "321m": "42.290",
+      "428m": "54.160",
+      "500m": "59.950",
+      "777m": "1:35.730"
+    },
+    "skater_id": "8032"
+  },
+  {
+    "name": "GONG  Yihan",
+    "country": "USA",
+    "gender": "F",
+    "age": 8,
+    "age_category": "Junior F",
+    "club": "EBSSC",
+    "pbs": {
+      "222m": "32.920",
+      "333m": "46.830",
+      "500m": "1:08.450"
+    },
+    "skater_id": "11127"
+  },
+  {
+    "name": "XU  Evan  2018",
+    "country": "USA",
+    "gender": "M",
+    "age": 7,
+    "age_category": "Junior G",
+    "club": "EBSSC",
+    "pbs": {
+      "107m": "16.831",
+      "214m": "32.940",
+      "222m": "33.800",
+      "333m": "50.290",
+      "321m": "46.588",
+      "428m": "1:05.358",
+      "500m": "1:17.060"
+    },
+    "skater_id": "10136"
+  },
+  {
+    "name": "CHEN  Olivia",
+    "country": "USA",
+    "gender": "F",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "PSSP",
+    "pbs": {
+      "107m": "16.636",
+      "214m": "33.619",
+      "222m": "26.812",
+      "333m": "38.997",
+      "321m": "45.130",
+      "428m": "53.393",
+      "500m": "56.480",
+      "777m": "1:27.730",
+      "1000m": "1:57.190"
+    },
+    "skater_id": "10146"
+  },
+  {
+    "name": "WU  Jimmy",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior D",
+    "club": "PSSP",
+    "pbs": {
+      "214m": "22.093",
+      "222m": "28.730",
+      "333m": "42.410",
+      "321m": "31.033",
+      "428m": "39.982",
+      "400m": "1:17.690",
+      "500m": "51.390",
+      "777m": "1:22.460",
+      "1000m": "1:44.920",
+      "1500m": "3:04.806"
+    },
+    "skater_id": "7953"
+  },
+  {
+    "name": "MONTES  Frida",
+    "country": "USA",
+    "gender": "F",
+    "age": 9,
+    "age_category": "Junior F",
+    "club": "PSSP",
+    "pbs": {
+      "107m": "14.535",
+      "214m": "23.702",
+      "222m": "26.673",
+      "333m": "39.470",
+      "321m": "35.550",
+      "428m": "46.886",
+      "400m": "1:44.450",
+      "500m": "59.450",
+      "777m": "1:37.700"
+    },
+    "skater_id": "7401"
+  },
+  {
+    "name": "JIN  Evan",
+    "country": "USA",
+    "gender": "M",
+    "age": 17,
+    "age_category": "Junior B",
+    "club": "DIRECT",
+    "pbs": {
+      "333m": "49.700",
+      "500m": "49.700",
+      "777m": "1:19.420",
+      "1000m": "1:41.460",
+      "1500m": "2:47.600",
+      "3000m": "7:26.610"
+    },
+    "skater_id": "8391"
+  },
+  {
+    "name": "GROVER  Kelly",
+    "country": "USA",
+    "gender": "F",
+    "age": 15,
+    "age_category": "Junior C",
+    "club": "PSSP",
+    "pbs": {
+      "107m": "21.340",
+      "214m": "36.560",
+      "222m": "27.282",
+      "333m": "39.550",
+      "321m": "55.220",
+      "500m": "53.190",
+      "777m": "1:24.790",
+      "1000m": "1:50.830",
+      "1500m": "2:53.196"
+    },
+    "skater_id": "7475"
+  },
+  {
+    "name": "MAILER  Moss",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "EBSSC",
+    "pbs": {
+      "222m": "28.410",
+      "333m": "40.310",
+      "500m": "1:01.760"
+    },
+    "skater_id": "11126"
+  },
+  {
+    "name": "ZHOU  Zongxin (Renee)",
+    "country": "USA",
+    "gender": "F",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "PSSP",
+    "pbs": {
+      "107m": "24.650",
+      "214m": "24.098",
+      "222m": "25.711",
+      "333m": "35.845",
+      "321m": "34.962",
+      "428m": "44.685",
+      "400m": "1:22.070",
+      "500m": "53.570",
+      "777m": "1:24.640",
+      "1000m": "1:47.462",
+      "1500m": "3:20.300"
+    },
+    "skater_id": "7477"
+  },
+  {
+    "name": "LI  Brandon",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "PSSP",
+    "pbs": {
+      "214m": "24.707",
+      "222m": "27.260",
+      "333m": "39.170",
+      "321m": "37.545",
+      "428m": "46.939",
+      "500m": "59.070",
+      "777m": "1:34.790"
+    },
+    "skater_id": "8298"
+  },
+  {
+    "name": "MANNING  John Paul",
+    "country": "USA",
+    "gender": "M",
+    "age": 17,
+    "age_category": "Junior A",
+    "club": "CHS",
+    "pbs": {
+      "333m": "36.260",
+      "500m": "47.010",
+      "777m": "1:14.915",
+      "1000m": "1:38.240",
+      "1500m": "2:42.091"
+    },
+    "skater_id": "6837"
+  },
+  {
+    "name": "LI  Amber",
+    "country": "USA",
+    "gender": "F",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "PSSP",
+    "pbs": {
+      "222m": "27.630",
+      "333m": "38.210",
+      "500m": "50.330",
+      "777m": "1:21.971",
+      "1000m": "1:45.540",
+      "1500m": "2:47.250"
+    },
+    "skater_id": "7468"
+  },
+  {
+    "name": "KWON  Kai",
+    "country": "USA",
+    "gender": "F",
+    "age": 9,
+    "age_category": "Junior F",
+    "club": "DIRECT",
+    "pbs": {
+      "222m": "27.190",
+      "333m": "41.030",
+      "500m": "1:00.710"
+    },
+    "skater_id": "11113"
+  },
+  {
+    "name": "WANTA  Henry",
+    "country": "USA",
+    "gender": "M",
+    "age": 8,
+    "age_category": "Junior F",
+    "club": "EBSSC",
+    "pbs": {
+      "107m": "15.360",
+      "222m": "29.960",
+      "333m": "43.969",
+      "321m": "44.410",
+      "428m": "53.850",
+      "500m": "1:02.580",
+      "777m": "1:37.450"
+    },
+    "skater_id": "10427"
+  },
+  {
+    "name": "WU  Emma",
+    "country": "USA",
+    "gender": "F",
+    "age": 13,
+    "age_category": "Junior D",
+    "club": "PSSP",
+    "pbs": {
+      "214m": "30.030",
+      "222m": "26.063",
+      "333m": "35.855",
+      "321m": "43.540",
+      "500m": "51.475",
+      "777m": "1:22.300",
+      "1000m": "1:47.000",
+      "1500m": "3:02.440"
+    },
+    "skater_id": "8035"
+  },
+  {
+    "name": "CHEN  Daniel",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "PSSP",
+    "pbs": {
+      "222m": "47.160",
+      "333m": "34.292",
+      "500m": "46.164",
+      "777m": "1:17.409",
+      "1000m": "1:36.460",
+      "1500m": "2:35.106"
+    },
+    "skater_id": "8340"
+  },
+  {
+    "name": "XU  Erin",
+    "country": "USA",
+    "gender": "F",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "PSSP",
+    "pbs": {
+      "214m": "22.325",
+      "222m": "27.550",
+      "333m": "39.400",
+      "321m": "32.771",
+      "428m": "43.345",
+      "500m": "55.670",
+      "777m": "1:29.010"
+    },
+    "skater_id": "8295"
+  },
+  {
+    "name": "MOUNTAINBEAR  Max",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "PSSP",
+    "pbs": {
+      "214m": "23.780",
+      "222m": "24.340",
+      "333m": "35.320",
+      "321m": "32.569",
+      "428m": "41.657",
+      "500m": "52.480",
+      "777m": "1:22.380",
+      "1000m": "1:54.170"
+    },
+    "skater_id": "8261"
+  },
+  {
+    "name": "CHEN  William",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "PSSP",
+    "pbs": {
+      "222m": "28.700",
+      "333m": "39.040",
+      "500m": "48.070",
+      "777m": "1:19.100",
+      "1000m": "1:39.010",
+      "1500m": "2:35.254"
+    },
+    "skater_id": "7005"
+  },
+  {
+    "name": "LI  Aaron",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "PSSP",
+    "pbs": {
+      "222m": "27.330",
+      "333m": "34.578",
+      "400m": "1:03.350",
+      "500m": "50.040",
+      "777m": "1:21.415",
+      "1000m": "1:45.940",
+      "1500m": "2:46.870"
+    },
+    "skater_id": "7466"
+  },
+  {
+    "name": "BERGSTROM  Lucia",
+    "country": "USA",
+    "gender": "F",
+    "age": 13,
+    "age_category": "Junior D",
+    "club": "MSC",
+    "pbs": {
+      "222m": "27.880",
+      "333m": "41.080",
+      "321m": "43.030",
+      "428m": "54.360",
+      "500m": "57.710",
+      "777m": "1:32.940",
+      "1000m": "1:59.170",
+      "1500m": "3:26.730"
+    },
+    "skater_id": "8427"
+  },
+  {
+    "name": "YI  Asa",
+    "country": "USA",
+    "gender": "M",
+    "age": 7,
+    "age_category": "Junior G",
+    "club": "CGS",
+    "pbs": {
+      "333m": "50.157",
+      "500m": "1:13.217"
+    },
+    "skater_id": "11191"
+  },
+  {
+    "name": "YI  Lasson",
+    "country": "USA",
+    "gender": "M",
+    "age": 13,
+    "age_category": "Junior D",
+    "club": "CGS",
+    "pbs": {
+      "500m": "1:00.224",
+      "777m": "1:34.237",
+      "1000m": "2:04.021"
+    },
+    "skater_id": "11190"
+  },
+  {
+    "name": "BRIMLEY  Sawyer",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior B",
+    "club": "OSC",
+    "pbs": {
+      "214m": "24.111",
+      "321m": "33.381",
+      "428m": "44.558",
+      "500m": "48.296",
+      "777m": "1:18.092",
+      "1000m": "1:38.794",
+      "1500m": "2:31.737"
+    },
+    "skater_id": "8090"
+  },
+  {
+    "name": "STITT  Robert",
+    "country": "USA",
+    "gender": "M",
+    "age": 17,
+    "age_category": "Junior A",
+    "club": "OSC",
+    "pbs": {
+      "333m": "36.524",
+      "500m": "54.067",
+      "777m": "1:22.991",
+      "1000m": "1:56.435"
+    },
+    "skater_id": "8112"
+  },
+  {
+    "name": "SAZONOVA  Eva",
+    "country": "USA",
+    "gender": "F",
+    "age": 15,
+    "age_category": "Junior C",
+    "club": "OSC",
+    "pbs": {
+      "333m": "36.690",
+      "500m": "51.442",
+      "777m": "1:21.685",
+      "1000m": "1:45.321",
+      "1500m": "2:54.144"
+    },
+    "skater_id": "10386"
+  },
+  {
+    "name": "CHEN  Jiayi",
+    "country": "USA",
+    "gender": "M",
+    "age": 9,
+    "age_category": "Junior F",
+    "club": "ESSC",
+    "pbs": {
+      "333m": "43.047",
+      "500m": "1:03.770"
+    },
+    "skater_id": "11192"
+  },
+  {
+    "name": "ZHANG  Zixuan",
+    "country": "USA",
+    "gender": "F",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "DIRECT",
+    "pbs": {
+      "333m": "39.015",
+      "500m": "51.712",
+      "777m": "1:22.004",
+      "1000m": "1:48.350"
+    },
+    "skater_id": "11193"
+  },
+  {
+    "name": "GUO  Xulishan",
+    "country": "USA",
+    "gender": "F",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "PSSSC",
+    "pbs": {
+      "333m": "42.319",
+      "500m": "1:03.216"
+    },
+    "skater_id": "11194"
+  },
+  {
+    "name": "COSME  Xavier",
+    "country": "USA",
+    "gender": "M",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "PTSC",
+    "pbs": {
+      "500m": "43.525",
+      "777m": "1:16.330",
+      "1000m": "1:31.541",
+      "1500m": "2:27.183"
+    },
+    "skater_id": "7227"
+  },
+  {
+    "name": "LI  Evan 2017",
+    "country": "USA",
+    "gender": "M",
+    "age": 8,
+    "age_category": "Junior F",
+    "club": "ESSC",
+    "pbs": {
+      "222m": "26.910",
+      "333m": "39.050",
+      "428m": "50.754",
+      "500m": "56.600",
+      "777m": "1:29.960"
+    },
+    "skater_id": "10124"
+  },
+  {
+    "name": "OLER  Max",
+    "country": "USA",
+    "gender": "M",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "OSC",
+    "pbs": {
+      "214m": "22.638",
+      "333m": "33.134",
+      "321m": "33.264",
+      "428m": "44.397",
+      "500m": "45.945",
+      "777m": "1:16.174",
+      "1000m": "1:36.142",
+      "1500m": "2:33.214"
+    },
+    "skater_id": "8107"
+  },
+  {
+    "name": "LIU  Marcus",
+    "country": "USA",
+    "gender": "M",
+    "age": 13,
+    "age_category": "Junior D",
+    "club": "OSC",
+    "pbs": {
+      "333m": "34.516",
+      "500m": "48.158",
+      "777m": "1:18.188",
+      "1000m": "1:38.750",
+      "1500m": "2:31.752"
+    },
+    "skater_id": "10110"
+  },
+  {
+    "name": "ZHANG  Zeming",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "DIRECT",
+    "pbs": {
+      "500m": "48.096",
+      "777m": "1:21.101",
+      "1000m": "1:42.040",
+      "1500m": "2:39.017"
+    },
+    "skater_id": "10892"
+  },
+  {
+    "name": "CHO  Elliana",
+    "country": "USA",
+    "gender": "F",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "PTSC",
+    "pbs": {
+      "107m": "12.521",
+      "214m": "22.300",
+      "222m": "25.689",
+      "333m": "36.056",
+      "321m": "31.537",
+      "428m": "42.670",
+      "383m": "1:00.220",
+      "500m": "49.187",
+      "777m": "1:15.190",
+      "1000m": "1:42.937",
+      "1500m": "2:54.753"
+    },
+    "skater_id": "6788"
+  },
+  {
+    "name": "HARTEMINK  Clark",
+    "country": "USA",
+    "gender": "M",
+    "age": 13,
+    "age_category": "Junior D",
+    "club": "EPSSC",
+    "pbs": {
+      "333m": "37.450",
+      "500m": "48.230",
+      "777m": "1:21.063",
+      "1000m": "1:39.188",
+      "1500m": "2:33.678"
+    },
+    "skater_id": "9873"
+  },
+  {
+    "name": "CHEN  Emma",
+    "country": "USA",
+    "gender": "F",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "EBSSC",
+    "pbs": {
+      "107m": "18.160",
+      "222m": "32.730",
+      "333m": "48.550",
+      "321m": "53.720",
+      "428m": "1:08.940",
+      "500m": "1:11.720"
+    },
+    "skater_id": "10807"
+  },
+  {
+    "name": "AITBAYEVA  Nagi",
+    "country": "USA",
+    "gender": "F",
+    "age": 17,
+    "age_category": "Junior B",
+    "club": "SYSC",
+    "pbs": {
+      "333m": "37.519",
+      "500m": "52.601",
+      "777m": "1:24.248",
+      "1000m": "1:48.703",
+      "1500m": "2:50.115"
+    },
+    "skater_id": "7079"
+  },
+  {
+    "name": "YE  Aurora",
+    "country": "USA",
+    "gender": "F",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "PTSC",
+    "pbs": {
+      "107m": "12.701",
+      "214m": "23.087",
+      "222m": "25.402",
+      "333m": "35.691",
+      "321m": "33.068",
+      "428m": "44.494",
+      "383m": "1:12.460",
+      "500m": "53.040",
+      "777m": "1:23.480",
+      "1000m": "1:49.950"
+    },
+    "skater_id": "7257"
+  },
+  {
+    "name": "KRISHNA  Sage",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "BSC",
+    "pbs": {
+      "595m": "1:24.840",
+      "107m": "15.335",
+      "214m": "22.766",
+      "333m": "38.807",
+      "321m": "32.993",
+      "428m": "44.580",
+      "500m": "55.844",
+      "777m": "1:30.290",
+      "1000m": "1:56.040",
+      "1500m": "2:56.569"
+    },
+    "skater_id": "8204"
+  },
+  {
+    "name": "DOUBLE  Zachary",
+    "country": "USA",
+    "gender": "M",
+    "age": 17,
+    "age_category": "Junior B",
+    "club": "BSS",
+    "pbs": {
+      "222m": "31.290",
+      "333m": "38.600",
+      "500m": "49.796",
+      "777m": "1:27.950",
+      "1000m": "1:41.424",
+      "1500m": "2:45.920"
+    },
+    "skater_id": "7631"
+  },
+  {
+    "name": "LEE  Ethan",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "EPSSC",
+    "pbs": {
+      "107m": "13.840",
+      "214m": "23.306",
+      "222m": "27.059",
+      "333m": "39.474",
+      "321m": "34.290",
+      "428m": "44.560",
+      "500m": "58.695",
+      "777m": "1:33.990",
+      "1000m": "2:04.549"
+    },
+    "skater_id": "9091"
+  },
+  {
+    "name": "SMITH  Andrew",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "BSS",
+    "pbs": {
+      "222m": "27.053",
+      "333m": "35.683",
+      "500m": "52.506",
+      "777m": "1:26.956",
+      "1000m": "1:51.315",
+      "1500m": "2:55.233"
+    },
+    "skater_id": "9641"
+  },
+  {
+    "name": "LIN  Lindsay",
+    "country": "USA",
+    "gender": "F",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "GSSC",
+    "pbs": {
+      "107m": "12.638",
+      "214m": "22.640",
+      "222m": "25.260",
+      "333m": "34.500",
+      "321m": "33.170",
+      "428m": "43.860",
+      "383m": "1:09.450",
+      "500m": "49.805",
+      "777m": "1:21.480",
+      "1000m": "1:44.200",
+      "1500m": "2:47.799"
+    },
+    "skater_id": "7245"
+  },
+  {
+    "name": "MILLS  Silas",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "CHS",
+    "pbs": {
+      "107m": "20.267",
+      "214m": "29.839",
+      "222m": "33.305",
+      "333m": "47.217",
+      "321m": "44.215",
+      "428m": "57.659",
+      "500m": "1:08.092"
+    },
+    "skater_id": "8127"
+  },
+  {
+    "name": "GOPINATH  Narendran",
+    "country": "USA",
+    "gender": "M",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "EPSSC",
+    "pbs": {
+      "333m": "37.210",
+      "500m": "47.770",
+      "777m": "1:17.456",
+      "1000m": "1:40.924",
+      "1500m": "2:48.640"
+    },
+    "skater_id": "7932"
+  },
+  {
+    "name": "AITBAYEVA  Saruar",
+    "country": "USA",
+    "gender": "F",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "SYSC",
+    "pbs": {
+      "595m": "1:22.568",
+      "107m": "12.189",
+      "214m": "22.210",
+      "222m": "26.934",
+      "333m": "38.050",
+      "321m": "32.590",
+      "428m": "43.670",
+      "383m": "51.701",
+      "500m": "56.582",
+      "777m": "1:30.832",
+      "1000m": "1:56.919",
+      "1500m": "3:05.117"
+    },
+    "skater_id": "7067"
+  },
+  {
+    "name": "WOBESER  Benjamin",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior C",
+    "club": "EPSSC",
+    "pbs": {
+      "107m": "16.740",
+      "214m": "31.110",
+      "222m": "31.360",
+      "333m": "43.885",
+      "321m": "45.210",
+      "383m": "1:12.970",
+      "500m": "1:04.182",
+      "777m": "1:45.289",
+      "1000m": "2:19.530"
+    },
+    "skater_id": "7240"
+  },
+  {
+    "name": "ZHANG  Aiden 2014",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior D",
+    "club": "PTSC",
+    "pbs": {
+      "107m": "11.880",
+      "214m": "23.576",
+      "222m": "25.386",
+      "333m": "35.950",
+      "321m": "33.443",
+      "383m": "58.760",
+      "500m": "49.516",
+      "777m": "1:21.200",
+      "1000m": "1:43.950",
+      "1500m": "3:00.824"
+    },
+    "skater_id": "7169"
+  },
+  {
+    "name": "GUI  Declan",
+    "country": "USA",
+    "gender": "M",
+    "age": 8,
+    "age_category": "Junior F",
+    "club": "PSC",
+    "pbs": {
+      "222m": "32.350",
+      "333m": "48.550",
+      "500m": "1:16.190",
+      "777m": "2:02.170"
+    },
+    "skater_id": "11121"
+  },
+  {
+    "name": "SCANIO  Will",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior D",
+    "club": "ASSC",
+    "pbs": {
+      "107m": "14.770",
+      "214m": "25.945",
+      "222m": "30.096",
+      "333m": "43.783",
+      "321m": "36.698",
+      "428m": "48.924",
+      "383m": "1:05.780",
+      "500m": "1:01.537",
+      "777m": "1:39.014",
+      "1000m": "2:18.412"
+    },
+    "skater_id": "9164"
+  },
+  {
+    "name": "KRISHNA  MILI",
+    "country": "USA",
+    "gender": "F",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "BSC",
+    "pbs": {
+      "107m": "13.703",
+      "214m": "25.715",
+      "222m": "28.649",
+      "333m": "37.530",
+      "321m": "39.195",
+      "500m": "50.102",
+      "777m": "1:24.415",
+      "1000m": "1:46.481",
+      "1500m": "2:59.735"
+    },
+    "skater_id": "8564"
+  },
+  {
+    "name": "CASTANEDA  Ava",
+    "country": "USA",
+    "gender": "F",
+    "age": 7,
+    "age_category": "Junior F",
+    "club": "SYSC",
+    "pbs": {
+      "107m": "20.256",
+      "214m": "31.227",
+      "222m": "47.080",
+      "333m": "1:08.054",
+      "321m": "48.313",
+      "428m": "1:13.558",
+      "383m": "1:14.024",
+      "500m": "1:31.138"
+    },
+    "skater_id": "9900"
+  },
+  {
+    "name": "ASCARI  Luca",
+    "country": "USA",
+    "gender": "M",
+    "age": 8,
+    "age_category": "Junior F",
+    "club": "PSC",
+    "pbs": {
+      "107m": "18.653",
+      "214m": "30.043",
+      "222m": "32.230",
+      "333m": "46.710",
+      "321m": "45.762",
+      "428m": "1:01.924",
+      "500m": "1:11.200",
+      "777m": "1:48.530"
+    },
+    "skater_id": "9068"
+  },
+  {
+    "name": "JAVORSKY  Juliet",
+    "country": "USA",
+    "gender": "F",
+    "age": 17,
+    "age_category": "Junior B",
+    "club": "WSC",
+    "pbs": {
+      "333m": "40.300",
+      "500m": "55.240",
+      "777m": "1:26.510",
+      "1000m": "1:45.360",
+      "1500m": "2:52.220",
+      "3000m": "6:31.470"
+    },
+    "skater_id": "7420"
+  },
+  {
+    "name": "KELLERMAN  Leighton",
+    "country": "USA",
+    "gender": "F",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "CHS",
+    "pbs": {
+      "214m": "30.080",
+      "222m": "29.211",
+      "333m": "43.640",
+      "321m": "44.210",
+      "428m": "1:00.290",
+      "500m": "1:02.270",
+      "777m": "1:37.680",
+      "1000m": "2:11.260"
+    },
+    "skater_id": "8871"
+  },
+  {
+    "name": "SNODE  Ashton",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "CHS",
+    "pbs": {
+      "222m": "32.090",
+      "333m": "45.290",
+      "500m": "1:08.730",
+      "777m": "1:48.060"
+    },
+    "skater_id": "11119"
+  },
+  {
+    "name": "LEE  Khloe",
+    "country": "USA",
+    "gender": "F",
+    "age": 13,
+    "age_category": "Junior D",
+    "club": "EPSSC",
+    "pbs": {
+      "222m": "29.009",
+      "333m": "43.469",
+      "500m": "1:05.681",
+      "777m": "1:43.240"
+    },
+    "skater_id": "11079"
+  },
+  {
+    "name": "JIN   HENGYI",
+    "country": "USA",
+    "gender": "M",
+    "age": 8,
+    "age_category": "Junior F",
+    "club": "CHS",
+    "pbs": {
+      "222m": "33.025",
+      "333m": "49.150",
+      "500m": "1:12.550"
+    },
+    "skater_id": "11116"
+  },
+  {
+    "name": "SULKOSKE  Ian",
+    "country": "USA",
+    "gender": "M",
+    "age": 17,
+    "age_category": "Junior B",
+    "club": "PSC",
+    "pbs": {
+      "222m": "28.140",
+      "333m": "39.050",
+      "500m": "48.153",
+      "777m": "1:17.430",
+      "1000m": "1:42.831",
+      "1500m": "2:49.128"
+    },
+    "skater_id": "7253"
+  },
+  {
+    "name": "CHAN  Anastasia",
+    "country": "USA",
+    "gender": "F",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "PTSC",
+    "pbs": {
+      "107m": "14.463",
+      "214m": "27.427",
+      "222m": "26.354",
+      "333m": "39.270",
+      "321m": "39.018",
+      "428m": "50.871",
+      "500m": "58.130",
+      "777m": "1:34.330"
+    },
+    "skater_id": "10143"
+  },
+  {
+    "name": "MARTINEZ-MOHABIR  IMMANUEL",
+    "country": "USA",
+    "gender": "M",
+    "age": 17,
+    "age_category": "Junior B",
+    "club": "NBSSC",
+    "pbs": {
+      "333m": "39.850",
+      "500m": "47.921",
+      "777m": "1:17.770",
+      "1000m": "1:40.799",
+      "1500m": "2:36.520"
+    },
+    "skater_id": "7027"
+  },
+  {
+    "name": "LIU  Ethan",
+    "country": "USA",
+    "gender": "M",
+    "age": 9,
+    "age_category": "Junior F",
+    "club": "GSSC",
+    "pbs": {
+      "107m": "15.600",
+      "214m": "21.714",
+      "222m": "30.050",
+      "333m": "35.458",
+      "321m": "30.743",
+      "428m": "40.280",
+      "500m": "49.763",
+      "777m": "1:18.476",
+      "1000m": "1:42.826",
+      "1500m": "2:57.118"
+    },
+    "skater_id": "8142"
+  },
+  {
+    "name": "LIN  Jayden",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior D",
+    "club": "PTSC",
+    "pbs": {
+      "107m": "16.080",
+      "214m": "21.345",
+      "333m": "35.650",
+      "321m": "31.069",
+      "428m": "41.491",
+      "500m": "52.830",
+      "777m": "1:23.590",
+      "1000m": "1:52.144"
+    },
+    "skater_id": "8627"
+  },
+  {
+    "name": "SCHADICK  LOGAN",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior C",
+    "club": "CHS",
+    "pbs": {
+      "333m": "36.374",
+      "500m": "51.050",
+      "777m": "1:23.337",
+      "1000m": "1:46.265",
+      "1500m": "3:15.480"
+    },
+    "skater_id": "8562"
+  },
+  {
+    "name": "MCCLOUD  Margaret",
+    "country": "USA",
+    "gender": "F",
+    "age": 6,
+    "age_category": "Junior G",
+    "club": "PSC",
+    "pbs": {
+      "222m": "55.030",
+      "333m": "1:20.630",
+      "500m": "1:59.373"
+    },
+    "skater_id": "11122"
+  },
+  {
+    "name": "SMITH  CAMERON",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior D",
+    "club": "CHS",
+    "pbs": {
+      "214m": "25.657",
+      "222m": "28.512",
+      "333m": "42.637",
+      "321m": "37.279",
+      "428m": "49.925",
+      "500m": "59.900",
+      "777m": "1:36.020",
+      "1000m": "2:08.820"
+    },
+    "skater_id": "8567"
+  },
+  {
+    "name": "CHO  Peyton",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior D",
+    "club": "PTSC",
+    "pbs": {
+      "107m": "13.169",
+      "214m": "24.477",
+      "222m": "24.268",
+      "333m": "35.574",
+      "321m": "34.273",
+      "428m": "46.316",
+      "500m": "50.360",
+      "777m": "1:22.230",
+      "1000m": "1:45.230"
+    },
+    "skater_id": "10145"
+  },
+  {
+    "name": "BORBAT  Petra",
+    "country": "USA",
+    "gender": "F",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "DSSC",
+    "pbs": {
+      "107m": "15.950",
+      "214m": "25.870",
+      "222m": "28.291",
+      "333m": "40.934",
+      "321m": "38.930",
+      "500m": "58.692",
+      "777m": "1:33.728",
+      "1000m": "2:02.038"
+    },
+    "skater_id": "8231"
+  },
+  {
+    "name": "LI  Xinyu",
+    "country": "USA",
+    "gender": "F",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "GSSC",
+    "pbs": {
+      "500m": "49.318",
+      "777m": "1:22.386",
+      "1000m": "1:43.829",
+      "1500m": "2:43.820"
+    },
+    "skater_id": "10889"
+  },
+  {
+    "name": "YEE  Kobe",
+    "country": "USA",
+    "gender": "M",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "BSS",
+    "pbs": {
+      "107m": "12.600",
+      "214m": "22.100",
+      "222m": "28.110",
+      "333m": "35.650",
+      "321m": "31.145",
+      "428m": "41.962",
+      "500m": "48.732",
+      "777m": "1:22.014",
+      "1000m": "1:40.964",
+      "1500m": "2:39.574"
+    },
+    "skater_id": "8234"
+  },
+  {
+    "name": "BRUNISHOLZ  Justyn",
+    "country": "USA",
+    "gender": "F",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "OSC",
+    "pbs": {
+      "214m": "25.701",
+      "222m": "27.721",
+      "333m": "39.911",
+      "321m": "37.755",
+      "428m": "44.844",
+      "500m": "59.009",
+      "777m": "1:33.520"
+    },
+    "skater_id": "8092"
+  },
+  {
+    "name": "KONG  Steven",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "SYSC",
+    "pbs": {
+      "595m": "1:29.782",
+      "107m": "15.693",
+      "214m": "28.364",
+      "222m": "30.786",
+      "333m": "46.208",
+      "321m": "36.840",
+      "428m": "51.827",
+      "383m": "55.440",
+      "500m": "1:12.084"
+    },
+    "skater_id": "9897"
+  },
+  {
+    "name": "MCCLOUD  FINN",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "PSC",
+    "pbs": {
+      "107m": "18.957",
+      "214m": "31.463",
+      "222m": "33.704",
+      "333m": "48.670",
+      "321m": "47.049",
+      "428m": "1:02.720",
+      "500m": "1:12.160",
+      "777m": "1:58.260"
+    },
+    "skater_id": "8576"
+  },
+  {
+    "name": "DEBICKI  Bartosz",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "DSSC",
+    "pbs": {
+      "214m": "23.420",
+      "222m": "26.579",
+      "333m": "38.701",
+      "321m": "32.760",
+      "383m": "42.120",
+      "500m": "54.541",
+      "777m": "1:29.360",
+      "1000m": "1:56.110",
+      "1500m": "2:56.053"
+    },
+    "skater_id": "10903"
+  },
+  {
+    "name": "YE  Arabella",
+    "country": "USA",
+    "gender": "F",
+    "age": 8,
+    "age_category": "Junior F",
+    "club": "PTSC",
+    "pbs": {
+      "107m": "17.862",
+      "214m": "29.820",
+      "222m": "29.413",
+      "333m": "42.410",
+      "321m": "44.070",
+      "428m": "1:09.194",
+      "383m": "56.100",
+      "500m": "1:03.670",
+      "777m": "1:42.110"
+    },
+    "skater_id": "10137"
+  },
+  {
+    "name": "WILKINSON  Luke",
+    "country": "USA",
+    "gender": "M",
+    "age": 16,
+    "age_category": "Junior B",
+    "club": "CHS",
+    "pbs": {
+      "333m": "35.207",
+      "500m": "46.770",
+      "777m": "1:18.243",
+      "1000m": "1:40.690",
+      "1500m": "2:46.773"
+    },
+    "skater_id": "10117"
+  },
+  {
+    "name": "HOUCK  Lois",
+    "country": "USA",
+    "gender": "F",
+    "age": 17,
+    "age_category": "Junior A",
+    "club": "DSSC",
+    "pbs": {
+      "222m": "28.828",
+      "333m": "40.700",
+      "500m": "59.074",
+      "777m": "1:35.136",
+      "1000m": "2:07.655"
+    },
+    "skater_id": "9236"
+  },
+  {
+    "name": "SHEN  Sergio",
+    "country": "USA",
+    "gender": "M",
+    "age": 9,
+    "age_category": "Junior F",
+    "club": "PTSC",
+    "pbs": {
+      "222m": "30.820",
+      "333m": "43.050",
+      "500m": "1:10.536"
+    },
+    "skater_id": "10354"
+  },
+  {
+    "name": "PECKA  Audrey",
+    "country": "USA",
+    "gender": "F",
+    "age": 13,
+    "age_category": "Junior D",
+    "club": "CHS",
+    "pbs": {
+      "107m": "15.255",
+      "214m": "27.180",
+      "222m": "27.623",
+      "333m": "39.780",
+      "321m": "40.800",
+      "428m": "54.840",
+      "500m": "59.585",
+      "777m": "1:36.320",
+      "1000m": "2:10.750"
+    },
+    "skater_id": "7603"
+  },
+  {
+    "name": "RILLOTTA  Gabriel",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior C",
+    "club": "PTSC",
+    "pbs": {
+      "333m": "35.690",
+      "500m": "45.170",
+      "777m": "1:14.162",
+      "1000m": "1:31.702",
+      "1500m": "2:28.258"
+    },
+    "skater_id": "7129"
+  },
+  {
+    "name": "WATTS  Jabari",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior B",
+    "club": "PTSC",
+    "pbs": {
+      "222m": "27.220",
+      "333m": "36.168",
+      "500m": "48.830",
+      "777m": "1:22.260",
+      "1000m": "1:43.110",
+      "1500m": "2:40.050"
+    },
+    "skater_id": "8141"
+  },
+  {
+    "name": "WANG  Erene",
+    "country": "USA",
+    "gender": "F",
+    "age": 9,
+    "age_category": "Junior E",
+    "club": "GSSC",
+    "pbs": {
+      "214m": "22.909",
+      "333m": "37.137",
+      "321m": "33.297",
+      "428m": "45.960",
+      "500m": "54.454",
+      "777m": "1:26.526",
+      "1000m": "1:52.721",
+      "1500m": "2:58.668"
+    },
+    "skater_id": "10153"
+  },
+  {
+    "name": "BRANDLEY  Maxwell",
+    "country": "USA",
+    "gender": "M",
+    "age": 13,
+    "age_category": "Junior C",
+    "club": "PSC",
+    "pbs": {
+      "222m": "28.790",
+      "333m": "43.880",
+      "500m": "1:05.460",
+      "777m": "1:41.260"
+    },
+    "skater_id": "11077"
+  },
+  {
+    "name": "GABORIAU  Henri",
+    "country": "USA",
+    "gender": "M",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "ASSC",
+    "pbs": {
+      "107m": "16.770",
+      "214m": "27.572",
+      "222m": "31.287",
+      "333m": "44.999",
+      "321m": "40.220",
+      "428m": "55.010",
+      "383m": "1:07.690",
+      "500m": "1:08.819",
+      "777m": "1:51.691",
+      "1000m": "2:39.440"
+    },
+    "skater_id": "9163"
+  },
+  {
+    "name": "DELNORE  Sebastian",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior B",
+    "club": "PSC",
+    "pbs": {
+      "222m": "27.782",
+      "333m": "40.980",
+      "500m": "57.130",
+      "777m": "1:31.800",
+      "1000m": "1:58.810"
+    },
+    "skater_id": "8172"
+  },
+  {
+    "name": "CHEN  Claire",
+    "country": "USA",
+    "gender": "F",
+    "age": 8,
+    "age_category": "Junior F",
+    "club": "EBSSC",
+    "pbs": {
+      "107m": "20.180",
+      "222m": "30.970",
+      "333m": "44.760",
+      "321m": "58.260",
+      "428m": "1:11.630",
+      "500m": "1:06.480",
+      "777m": "1:44.520"
+    },
+    "skater_id": "9312"
+  },
+  {
+    "name": "GANESAN  Sadhana",
+    "country": "USA",
+    "gender": "F",
+    "age": 17,
+    "age_category": "Junior B",
+    "club": "DSSC",
+    "pbs": {
+      "500m": "46.409",
+      "777m": "1:17.180",
+      "1000m": "1:35.510",
+      "1500m": "2:31.519"
+    },
+    "skater_id": "6958"
+  },
+  {
+    "name": "YU  Ryder",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "GSSC",
+    "pbs": {
+      "222m": "26.360",
+      "333m": "39.322",
+      "500m": "58.038",
+      "777m": "1:28.937"
+    },
+    "skater_id": "10902"
+  },
+  {
+    "name": "POPE  Eliza",
+    "country": "USA",
+    "gender": "F",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "CHS",
+    "pbs": {
+      "222m": "37.500",
+      "333m": "57.150",
+      "500m": "1:26.590"
+    },
+    "skater_id": "11085"
+  },
+  {
+    "name": "RUTZ  Parker",
+    "country": "USA",
+    "gender": "M",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "BSC",
+    "pbs": {
+      "595m": "1:37.200",
+      "214m": "27.327",
+      "222m": "28.980",
+      "333m": "43.100",
+      "321m": "40.180",
+      "428m": "54.553",
+      "500m": "1:04.210",
+      "777m": "1:40.610"
+    },
+    "skater_id": "8881"
+  },
+  {
+    "name": "QU  Harvey",
+    "country": "USA",
+    "gender": "M",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "GSSC",
+    "pbs": {
+      "107m": "12.658",
+      "214m": "22.950",
+      "222m": "25.565",
+      "333m": "34.690",
+      "321m": "33.870",
+      "428m": "43.790",
+      "383m": "1:11.450",
+      "500m": "52.367",
+      "777m": "1:23.509",
+      "1000m": "1:54.005"
+    },
+    "skater_id": "7247"
+  },
+  {
+    "name": "LIU  Jonathan",
+    "country": "USA",
+    "gender": "M",
+    "age": 6,
+    "age_category": "Junior G",
+    "club": "GSSC",
+    "pbs": {
+      "222m": "30.086",
+      "333m": "42.820",
+      "500m": "1:04.510",
+      "777m": "1:42.480"
+    },
+    "skater_id": "11125"
+  },
+  {
+    "name": "SHELTON-WHITE  Christian",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior B",
+    "club": "PTSC",
+    "pbs": {
+      "222m": "27.310",
+      "333m": "36.911",
+      "500m": "50.330",
+      "777m": "1:21.658",
+      "1000m": "1:46.140",
+      "1500m": "2:50.226"
+    },
+    "skater_id": "7935"
+  },
+  {
+    "name": "MARTINEZ  Riley",
+    "country": "USA",
+    "gender": "M",
+    "age": 7,
+    "age_category": "Junior F",
+    "club": "UCB",
+    "pbs": {
+      "222m": "32.260",
+      "333m": "47.420",
+      "500m": "1:14.700"
+    },
+    "skater_id": "11124"
+  },
+  {
+    "name": "CROSS  Oscar",
+    "country": "USA",
+    "gender": "M",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "BSC",
+    "pbs": {
+      "222m": "30.973",
+      "333m": "43.403",
+      "500m": "1:00.040",
+      "777m": "1:34.200",
+      "1000m": "2:01.987"
+    },
+    "skater_id": "10796"
+  },
+  {
+    "name": "HE  Eason",
+    "country": "USA",
+    "gender": "M",
+    "age": 9,
+    "age_category": "Junior E",
+    "club": "PTSC",
+    "pbs": {
+      "222m": "28.871",
+      "333m": "39.170",
+      "500m": "58.580",
+      "777m": "1:34.480"
+    },
+    "skater_id": "11115"
+  },
+  {
+    "name": "CASTANEDA  Luke",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "SYSC",
+    "pbs": {
+      "595m": "1:30.354",
+      "107m": "15.480",
+      "214m": "30.209",
+      "222m": "32.044",
+      "333m": "46.836",
+      "321m": "37.969",
+      "428m": "1:09.007",
+      "383m": "57.963",
+      "500m": "1:10.861"
+    },
+    "skater_id": "9898"
+  },
+  {
+    "name": "SHI  Nolan",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "PTSC",
+    "pbs": {
+      "107m": "13.088",
+      "214m": "24.621",
+      "333m": "35.211",
+      "321m": "30.893",
+      "428m": "41.686",
+      "500m": "52.730",
+      "777m": "1:24.610",
+      "1000m": "1:49.640"
+    },
+    "skater_id": "9066"
+  },
+  {
+    "name": "LEE  Ayden",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior C",
+    "club": "EPSSC",
+    "pbs": {
+      "333m": "36.560",
+      "500m": "48.970",
+      "777m": "1:20.214",
+      "1000m": "15.640",
+      "1500m": "2:33.977"
+    },
+    "skater_id": "7242"
+  },
+  {
+    "name": "CAO  Sebastian",
+    "country": "USA",
+    "gender": "M",
+    "age": 8,
+    "age_category": "Junior F",
+    "club": "FMSC",
+    "pbs": {
+      "107m": "14.803",
+      "214m": "27.586",
+      "222m": "29.283",
+      "333m": "41.110",
+      "321m": "41.107",
+      "428m": "1:00.739",
+      "500m": "1:00.890",
+      "777m": "1:35.840"
+    },
+    "skater_id": "10714"
+  },
+  {
+    "name": "CHI  Jonathan",
+    "country": "USA",
+    "gender": "M",
+    "age": 13,
+    "age_category": "Junior C",
+    "club": "PTSC",
+    "pbs": {
+      "214m": "29.200",
+      "333m": "35.406",
+      "321m": "45.720",
+      "500m": "51.820",
+      "777m": "1:23.140",
+      "1000m": "1:46.884",
+      "1500m": "3:03.230"
+    },
+    "skater_id": "9027"
+  },
+  {
+    "name": "BORBAT  Katerina",
+    "country": "USA",
+    "gender": "F",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "DSSC",
+    "pbs": {
+      "214m": "25.130",
+      "222m": "30.220",
+      "333m": "37.069",
+      "321m": "38.020",
+      "500m": "54.275",
+      "777m": "1:28.627",
+      "1000m": "1:54.394",
+      "1500m": "2:57.010"
+    },
+    "skater_id": "8232"
+  },
+  {
+    "name": "CERRONE  Magdalena",
+    "country": "USA",
+    "gender": "F",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "BSC",
+    "pbs": {
+      "595m": "1:34.150",
+      "107m": "15.410",
+      "214m": "24.610",
+      "222m": "29.727",
+      "333m": "43.045",
+      "321m": "36.480",
+      "428m": "47.583",
+      "500m": "1:04.690",
+      "777m": "1:48.062",
+      "1000m": "2:17.660"
+    },
+    "skater_id": "8122"
+  },
+  {
+    "name": "MARTINEZ  Parker",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "PTSC",
+    "pbs": {
+      "222m": "27.637",
+      "333m": "38.730",
+      "500m": "58.210",
+      "777m": "1:30.350"
+    },
+    "skater_id": "11114"
+  },
+  {
+    "name": "KAMARADOS  Anastasia",
+    "country": "USA",
+    "gender": "F",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "PSC",
+    "pbs": {
+      "222m": "33.499",
+      "333m": "51.547",
+      "500m": "1:19.104",
+      "777m": "2:02.477"
+    },
+    "skater_id": "11078"
+  },
+  {
+    "name": "YAN-LI  Bowen",
+    "country": "USA",
+    "gender": "M",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "GESS",
+    "pbs": {
+      "333m": "42.640",
+      "500m": "1:06.040",
+      "777m": "1:46.360",
+      "1000m": "2:20.010"
+    },
+    "skater_id": "10440"
+  },
+  {
+    "name": "CAMP  Hannah",
+    "country": "USA",
+    "gender": "F",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "NBSSC",
+    "pbs": {
+      "222m": "31.510",
+      "333m": "37.600",
+      "500m": "54.210",
+      "777m": "1:26.330",
+      "1000m": "1:45.460",
+      "1500m": "2:53.829"
+    },
+    "skater_id": "7161"
+  },
+  {
+    "name": "RIBECKY  James",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "WSC",
+    "pbs": {
+      "222m": "32.310",
+      "333m": "36.530",
+      "400m": "1:08.480",
+      "500m": "52.650",
+      "777m": "1:22.540",
+      "1000m": "1:45.690"
+    },
+    "skater_id": "7396"
+  },
+  {
+    "name": "FANTE  Christiano",
+    "country": "USA",
+    "gender": "M",
+    "age": 9,
+    "age_category": "Junior F",
+    "club": "NBSSC",
+    "pbs": {
+      "107m": "22.380",
+      "214m": "43.950",
+      "222m": "41.670",
+      "333m": "1:08.410",
+      "383m": "53.620"
+    },
+    "skater_id": "11273"
+  },
+  {
+    "name": "MARK  Alex",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "GESS",
+    "pbs": {
+      "222m": "41.390",
+      "333m": "1:00.200",
+      "500m": "1:32.110",
+      "777m": "2:48.200"
+    },
+    "skater_id": "11267"
+  },
+  {
+    "name": "DONG  Jaydon",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "CRS",
+    "pbs": {
+      "222m": "27.570",
+      "333m": "41.430",
+      "500m": "1:00.040",
+      "777m": "1:37.870"
+    },
+    "skater_id": "10436"
+  },
+  {
+    "name": "DENG  Caleb",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "NBSSC",
+    "pbs": {
+      "222m": "28.070",
+      "333m": "38.330",
+      "500m": "56.520",
+      "777m": "1:29.830",
+      "1000m": "1:58.630",
+      "1500m": "3:07.850"
+    },
+    "skater_id": "9331"
+  },
+  {
+    "name": "WU  Grace",
+    "country": "USA",
+    "gender": "F",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "GESS",
+    "pbs": {
+      "222m": "39.480",
+      "333m": "52.280",
+      "500m": "1:31.450",
+      "777m": "2:25.830"
+    },
+    "skater_id": "11265"
+  },
+  {
+    "name": "GOODLIFFE  Julian",
+    "country": "USA",
+    "gender": "M",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "NBSSC",
+    "pbs": {
+      "333m": "42.550",
+      "500m": "1:05.990",
+      "777m": "1:43.230",
+      "1000m": "2:21.570"
+    },
+    "skater_id": "10399"
+  },
+  {
+    "name": "RIBECKY  Charlotte",
+    "country": "USA",
+    "gender": "F",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "WSC",
+    "pbs": {
+      "107m": "13.910",
+      "222m": "31.580",
+      "333m": "38.770",
+      "321m": "37.910",
+      "428m": "49.740",
+      "500m": "53.580",
+      "777m": "1:29.110",
+      "1000m": "1:56.350"
+    },
+    "skater_id": "10522"
+  },
+  {
+    "name": "ACEVES   Fabian",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "NBSSC",
+    "pbs": {
+      "222m": "27.540",
+      "333m": "39.540",
+      "500m": "57.910",
+      "777m": "1:32.230",
+      "1000m": "2:01.230",
+      "1500m": "3:17.890"
+    },
+    "skater_id": "10398"
+  },
+  {
+    "name": "MURPHY  Hilton",
+    "country": "USA",
+    "gender": "M",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "GESS",
+    "pbs": {
+      "214m": "27.770",
+      "222m": "32.230",
+      "333m": "42.170",
+      "321m": "38.620",
+      "428m": "51.620",
+      "500m": "1:01.730",
+      "777m": "1:37.080",
+      "1000m": "2:10.160"
+    },
+    "skater_id": "10826"
+  },
+  {
+    "name": "KIM  Jeehan",
+    "country": "USA",
+    "gender": "M",
+    "age": 12,
+    "age_category": "Junior D",
+    "club": "NBSSC",
+    "pbs": {
+      "222m": "26.410",
+      "333m": "38.890",
+      "500m": "58.020",
+      "777m": "1:34.640",
+      "1000m": "2:08.890"
+    },
+    "skater_id": "10396"
+  },
+  {
+    "name": "HUR  Ethan",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "NBSSC",
+    "pbs": {
+      "222m": "33.200",
+      "333m": "45.390",
+      "500m": "1:07.710",
+      "777m": "1:48.260"
+    },
+    "skater_id": "11264"
+  },
+  {
+    "name": "KANKE  Tessa",
+    "country": "USA",
+    "gender": "F",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "NBSSC",
+    "pbs": {
+      "214m": "28.830",
+      "222m": "30.910",
+      "333m": "43.570",
+      "321m": "41.140",
+      "428m": "58.850",
+      "500m": "1:03.960",
+      "777m": "1:44.500",
+      "1000m": "2:20.200"
+    },
+    "skater_id": "10823"
+  },
+  {
+    "name": "ZABOROWSKI  Marcel",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "FPS",
+    "pbs": {
+      "222m": "30.200",
+      "333m": "44.170",
+      "321m": "51.010",
+      "428m": "1:06.550",
+      "500m": "1:06.260",
+      "777m": "1:45.820",
+      "1000m": "2:17.420"
+    },
+    "skater_id": "8386"
+  },
+  {
+    "name": "BERNSTEIN  Hannah",
+    "country": "USA",
+    "gender": "F",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "GESS",
+    "pbs": {
+      "222m": "29.600",
+      "333m": "42.550",
+      "500m": "1:02.110",
+      "777m": "1:39.260",
+      "1000m": "2:28.110"
+    },
+    "skater_id": "8266"
+  },
+  {
+    "name": "FANTE  Alessandro",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "NBSSC",
+    "pbs": {
+      "222m": "26.230",
+      "333m": "38.230",
+      "500m": "27.610",
+      "777m": "1:34.300",
+      "1000m": "2:03.730"
+    },
+    "skater_id": "10473"
+  },
+  {
+    "name": "ZABOROWSKI  Amelia",
+    "country": "USA",
+    "gender": "F",
+    "age": 8,
+    "age_category": "Junior F",
+    "club": "FPS",
+    "pbs": {
+      "107m": "16.020",
+      "214m": "29.980",
+      "222m": "33.800",
+      "333m": "50.420",
+      "321m": "46.690",
+      "428m": "1:05.110",
+      "500m": "1:16.700",
+      "777m": "2:12.550"
+    },
+    "skater_id": "9347"
+  },
+  {
+    "name": "LENZ  August",
+    "country": "USA",
+    "gender": "M",
+    "age": 15,
+    "age_category": "Junior B",
+    "club": "DIRECT",
+    "pbs": {
+      "333m": "39.950",
+      "500m": "51.470",
+      "777m": "1:21.910",
+      "1000m": "1:46.200",
+      "1500m": "2:48.480"
+    },
+    "skater_id": "7985"
+  },
+  {
+    "name": "POLUS  Alexandr",
+    "country": "USA",
+    "gender": "M",
+    "age": 14,
+    "age_category": "Junior C",
+    "club": "NBSSC",
+    "pbs": {
+      "333m": "49.640",
+      "500m": "49.230",
+      "777m": "1:18.270",
+      "1000m": "1:41.340",
+      "1500m": "2:37.310",
+      "3000m": "6:19.850"
+    },
+    "skater_id": "9328"
+  },
+  {
+    "name": "SCHEELS  Henry",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "WSC",
+    "pbs": {
+      "107m": "19.890",
+      "214m": "39.350",
+      "222m": "37.890",
+      "333m": "54.070",
+      "383m": "50.500",
+      "500m": "1:25.260",
+      "777m": "2:23.380"
+    },
+    "skater_id": "11272"
+  },
+  {
+    "name": "FOX  Ruby",
+    "country": "USA",
+    "gender": "F",
+    "age": 15,
+    "age_category": "Junior B",
+    "club": "WMSSC",
+    "pbs": {
+      "222m": "30.230",
+      "333m": "41.170",
+      "500m": "58.700",
+      "777m": "1:30.370",
+      "1000m": "1:59.410",
+      "1500m": "3:15.200"
+    },
+    "skater_id": "10474"
+  },
+  {
+    "name": "ZHU  Eugene Jiayue",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "NBSSC",
+    "pbs": {
+      "222m": "29.290",
+      "333m": "41.010",
+      "321m": "48.000",
+      "428m": "1:02.770",
+      "500m": "59.920",
+      "777m": "1:36.790",
+      "1000m": "2:07.450"
+    },
+    "skater_id": "7975"
+  },
+  {
+    "name": "PAGEL  Gideon",
+    "country": "USA",
+    "gender": "M",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "WMSSC",
+    "pbs": {
+      "222m": "32.610",
+      "333m": "44.470",
+      "500m": "1:05.920",
+      "777m": "1:45.450"
+    },
+    "skater_id": "11268"
+  },
+  {
+    "name": "GILLILAND  Charlotte",
+    "country": "USA",
+    "gender": "F",
+    "age": 11,
+    "age_category": "Junior E",
+    "club": "GESS",
+    "pbs": {
+      "222m": "37.050",
+      "333m": "53.860",
+      "500m": "1:19.830",
+      "777m": "2:13.200"
+    },
+    "skater_id": "11266"
+  },
+  {
+    "name": "HARVEY  Jacob",
+    "country": "USA",
+    "gender": "M",
+    "age": 13,
+    "age_category": "Junior C",
+    "club": "DIRECT",
+    "pbs": {
+      "222m": "27.010",
+      "333m": "39.720",
+      "500m": "1:00.020",
+      "777m": "1:37.020"
+    },
+    "skater_id": "8004"
+  },
+  {
+    "name": "DONG  Jeremy",
+    "country": "USA",
+    "gender": "M",
+    "age": 10,
+    "age_category": "Junior E",
+    "club": "CRS",
+    "pbs": {
+      "222m": "28.250",
+      "333m": "40.360",
+      "500m": "1:00.850",
+      "777m": "1:37.620"
+    },
+    "skater_id": "10426"
+  }
+]
